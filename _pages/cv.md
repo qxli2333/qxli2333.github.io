@@ -11,22 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Astronomy, University of Science and Technology of China, Sep. 2019 -- July 2023 (Expected)
+  * GPA: **3.78/4.30**
+  * Rank: 4/31
+  * Jici Yan Talent Students Program in Physics $\&$ Shouguan Wang Talent Students Program in Astronomy
 
+Research experience
+======
+* : Subhalo Properties From SDSS Satellte Lensing
+  * Supervisor: Prof. Wentao Luo and Prof. Huiyuan Wang
+  * State: To be submitted to ApJ
+  * Abstract: In this work, we apply galaxy-galaxy lensing, a powful method to constrain halo properties, to satellite galaxies in Yang's SDSS group catalog. With the largest lens sample among state-of-art satellite lensing works, we find a unreported selection effect. We develop a weighting method to correct this bias. 
+* 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022 Spring: Teaching Assistant and Grader
+  * Observational Astronomy (An cource for astronomy major undergraduates in USTC)
+  * Lecturer: Prof. Qingfeng Zhu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
