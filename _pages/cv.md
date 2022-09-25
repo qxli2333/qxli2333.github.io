@@ -18,25 +18,31 @@ Education
 
 Research experience
 ======
-* : Subhalo Properties From SDSS Satellte Lensing
+* Subhalo Properties From SDSS Satellte Lensing
+  * Credit: First author
   * Supervisor: Prof. Wentao Luo and Prof. Huiyuan Wang
   * State: To be submitted to ApJ
-  * Abstract: In this work, we apply galaxy-galaxy lensing, a powful method to constrain halo properties, to satellite galaxies in Yang's SDSS group catalog. With the largest lens sample among state-of-art satellite lensing works, we find a unreported selection effect. We develop a weighting method to correct this bias. 
-* 
-Work experience
-======
-* 2022 Spring: Teaching Assistant and Grader
-  * Observational Astronomy (An cource for astronomy major undergraduates in USTC)
-  * Lecturer: Prof. Qingfeng Zhu
+  * August 2021 - September 2022
+  * Abstract: In this work, we apply galaxy-galaxy lensing, a powful method to constrain halo properties, to satellite galaxies in Yang's SDSS group catalog. With the largest lens sample among state-of-art satellite lensing works, we **find an unreported selection effect**. We develop a weighting method to correct this bias. We find that for high stellar mass satellites, there is not any strong $M_{sub}-R_{sep}$ dependence. However, for low stellar mass satellites, a 2$\sigma$ significantly positive slope is found for $\log M_{sub}-R_{sep}$. It indicates that **smaller subhalo suffers more sever tidal stripping**.
+  
+* Comparison between Caustic Mass and Weak Lensing Mass
+  * Credit: Second author. I conducted most of measurement, modeling and test from weak lensing side.
+  * Supervisor: Prof. Christopher J. Miller (University of Michigan, Umich. First author of the paper) and Prof. Wentao Luo
+  * State: Most of work are completed. Paper in preparion.
+  * October 2021 - September 2022
+  * Abstract: We use two method, caustic (dynamical analysis in phase space) and weak lensing, to measure halo mass of clusters in C4 catalog. We campare the result and analyse the potential reasons of the difference between two kinds of mass. In this work, we also compare stacked caustic mass and individual caustic mass. 
+
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Galaxy-galaxy Signal Measurement and Modeling
+  * Familiar with most of popular weak lensing shape catalogs: SDSS, Decals, KiDS, UNIONS, DES and HSC.
+  * Rich experience in using different measurement pipelines.
+  * Rich experience to construct different ESD model according to physics.
+  * Awareness of main errors of galaxy-galaxy lensing.
+* Extract data from `.fits`, `.hdf5` and ASCII table.
+  * Especially for catalog data
+* MCMC model fitting
 
 Publications
 ======
@@ -50,11 +56,11 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching experience
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2022 Spring: Teaching Assistant and Grader
+  * Observational Astronomy (An cource for astronomy major undergraduates in USTC)
+  * Lecturer: Prof. Qingfeng Zhu
   
 Service and leadership
 ======
