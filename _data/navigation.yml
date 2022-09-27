@@ -1,16 +1,16 @@
 # main links links
 main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Grade"
+    url: /grades/ 
+
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/    
-
-  - title: "Grade"
-    url: /grades/    
-    
-  - title: "Research"
-    url: /research/
 
   - title: "CV"
     url: /cv/
