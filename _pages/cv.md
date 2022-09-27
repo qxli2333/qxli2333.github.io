@@ -46,7 +46,7 @@ Research experience
   * Supervisor: Prof. Martin Kilbinger (CEA) & Prof. Wentao Luo
   * Time: July 2022 -
   * State: **Data access proposal approved**. Primary results got, still testing.
-  * Abstract: $M_{halo}-M_{BH}$ relation has been discussed since Ferrarese (2002). It provides clues to reveal the coevolution of supermassive black holes and their host galaxies and how the environment affects the growth of supermassive black holes. There are several works on it with halo mass from galaxy clustering, globular clusters dynamics and rotation curves. We use galaxy-galaxy lensing to calibrate this relation. With virial $M_{BH}$ from Liu's and Shen's AGN catalogs and KiDS1000 and UNIONS shape catalog, we obtain **the first direct measurement to $M_{halo}-M_{BH}$ relation**. Our result is roughly consistant with illustrisTNG. 
+  * Abstract: $M_{halo}-M_{BH}$ relation has been discussed since Ferrarese (2002). It provides clues to reveal the coevolution of supermassive black holes and their host galaxies and how the environment affects the growth of supermassive black holes. There are several works on it with halo mass from galaxy clustering, globular clusters dynamics and rotation curves. We use galaxy-galaxy lensing to calibrate this relation. With virial $M_{BH}$ from catalogs and yp-to-date KiDS1000 and UNIONS shape catalog, we obtain **the first direct measurement to $M_{halo}-M_{BH}$ relation**. Our result is roughly consistant with illustrisTNG. 
 
 * **Subhalo Scaling Relation from Weak Lensing Observation**
   * Credit: First author
