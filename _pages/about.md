@@ -19,7 +19,6 @@ Research experience
   * Credit: First author
   * Supervisor: Prof. Wentao Luo (USTC) and Prof. Huiyuan Wang (USTC)
   * State: To be submitted to ApJ
-  * Time: August 2021 - September 2022
   * Apply galaxy-galaxy lensing to satellite galaxies in Yang's SDSS group catalog 
   * **Find an unreported selection effect** 
   * **Smaller subhalo suffers more sever tidal stripping**.
@@ -27,9 +26,8 @@ Research experience
   
 * **Comparison between Caustic Mass and Weak Lensing Mass**
   * Credit: Second author. I conducted most of measurement, modeling and tests from weak lensing side
-  * Supervisor: Prof. Christopher J. Miller (University of Michigan, Umich. First author of the paper) and Prof. Wentao Luo
+  * Supervisor: Prof. Christopher J. Miller (Umich. First author of the paper) and Prof. Wentao Luo
   * State: Most of work are completed. Paper in preparation.
-  * Time: October 2021 - September 2022
   * Use two methods, caustic (dynamical analysis in phase space) and weak lensing, to measure halo mass of clusters in C4 catalog.
   * **The first comparison analysis** between them. 
   * Helps achieve better consistant halo mass measurement and reveal more potential errors.
@@ -37,29 +35,25 @@ Research experience
 * **Investigating halo properties of AGNs with CDF and VOICE**
   * Credit: First author
   * Supervisor: Prof. Wentao Luo & Prof. Huiyuan Wang
-  * Time: October 2021 - 
-  * State: **Data access proposal approved**. Still working.
+  * State: **Data access proposal approved**. 
   * Use shape catalog of VOICE to investigate halo properties of AGNs and X-ray galaxies in CDF 7ms catalog.
 
 * **$M_{halo}-M_{BH}$ Relation from Weak Lensing**
   * Credit: First author
   * Supervisor: Prof. Martin Kilbinger (CEA) & Prof. Wentao Luo
-  * Time: July 2022 -
-  * State: **Data access proposal approved**. Primary results got, still testing.
+  * State: **Data access proposal approved**. 
   * **The first weak lensing measurement to $M_{halo}-M_{BH}$ relation**
   * Roughly consistant with illustrisTNG. 
 
 * **Subhalo Scaling Relation from Weak Lensing Observation**
   * Credit: First author
   * Supervisor: Prof. Wentao Luo, Prof. Huiyuan Wang and Prof. Houjun Mo
-  * Time: July 2022 -
   * State: In preparation
   * Combine data from several weak lensing survey to constrain parameters of subhalo-to-stellar mass relation.
 
 * **Dark energy properties constrain from KiDS Shear Ratio Test**
   * Credit: First author .
   * Supervisor: Prof. Matin Kilbinger and Prof. Wentao Luo
-  * Time: March 2023 - 
   * State: In preparation
   * Try to constrain cosmological parameters from shear ratio test with calibrated redshift distribution.
 
