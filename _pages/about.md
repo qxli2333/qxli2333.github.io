@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /
 ---
 
 Hello! My name is Qinxun Li (李秦埙). Currently I am an undergraduate student from University of Science and Technology of China (USTC). My major is **astronomy**. Now I am visiting University of Michigan and working with Prof. Christopher Miller.
