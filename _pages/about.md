@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,95 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello! My name is Qinxun Li (李秦埙). Currently I am an undergraduate student from University of Science and Technology of China (USTC). My major is **astronomy**. Now I am visiting University of Michigan and working with Prof. Christopher Miller.
 
-A data-driven personal website
+I will get my bachelor degree on July 2023. Now I am looking for PhD position to continue my education and research.
+
+Skills
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* Galaxy-galaxy Signal Measurement and Modeling
+  * Familiar with most of popular weak lensing shape catalogs: SDSS, Decals, KiDS, UNIONS, DES and HSC.
+  * Rich experience in using different measurement pipelines.
+  * Rich experience to construct different ESD model according to physics.
+  * Awareness of main errors of galaxy-galaxy lensing.
+* Extract data from `.fits`, `.hdf5` and ASCII table.
+  * Especially for catalog data
+* MCMC model fitting
+* Plot figures with `matplotlib`.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Research Interest
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Galaxy formation and evolution (*)
+- Gravitational lensing (*)
+- Galaxy clusters (*)
+- Large scale structure
+- Data mining in astrophysics 
+- Cosmological constraint from large scale structure (*)
+- Cosmological simulation
+- Coevolution of supermassive black holes and galaxies (and dark matter halo)
+- Pipeline of image survey
+- More ......
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I am only a beginner in astronomy and astrophysics with pratical experience in few fields. **So I am always very willing to participate in work of unfamiliar fields.** '*' in the list above means that I have pratical experience in that field. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Other preparation for PhD
+======
+* Passing 8 graduate courses (31 credits) in math, physics and astrophysics with high grades (3.92/4.0 or 90.4/100 for these courses)
+* Awareness of important telescopes and survey projects among the world
+* Rich experience in international collaboration
+* Rich experience in working parallel on several works
+* English: TOEFL iBT score (91)
+* Experience of giving talks
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Research experience
+======
+* **Subhalo Properties From SDSS Satellte Lensing**
+  * Credit: First author
+  * Supervisor: Prof. Wentao Luo (USTC) and Prof. Huiyuan Wang (USTC)
+  * State: To be submitted to ApJ
+  * Time: August 2021 - September 2022
+  * Abstract: In this work, we apply galaxy-galaxy lensing, a powful method to constrain halo properties, to satellite galaxies in Yang's SDSS group catalog. With the largest lens sample among state-of-art satellite lensing works, we **find an unreported selection effect**. We develop a weighting method to correct this bias. We find that for high stellar mass satellites, there is not any strong $M_{sub}-R_{sep}$ dependence. However, for low stellar mass satellites, a 2$\sigma$ significantly positive slope is found for $\log M_{sub}-R_{sep}$. It indicates that **smaller subhalo suffers more sever tidal stripping**.
+  * Key words: Subhalo, galaxy, galaxy group, extragalatic astrophysics, weak lensing, dark matter halo, tidal stripping.
+  
+* **Comparison between Caustic Mass and Weak Lensing Mass**
+  * Credit: Second author. I conducted most of measurement, modeling and tests from weak lensing side
+  * Supervisor: Prof. Christopher J. Miller (University of Michigan, Umich. First author of the paper) and Prof. Wentao Luo
+  * State: Most of work are completed. Paper in preparation.
+  * Time: October 2021 - September 2022
+  * Abstract: We use two methods, caustic (dynamical analysis in phase space) and weak lensing, to measure halo mass of clusters in C4 catalog. We campare the result and analyse the potential reasons of the difference between two kinds of mass. In this work, we also compare stacked caustic mass and individual caustic mass. This is **the first comparison analysis** between them. It helps achieve better consistant halo mass measurement and reveal more potential errors.
+  * Keywords: Dark matter halo, galaxy clusters, caustic mass, weak lensing, dynamical analysis, group finder.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* **Investigating halo properties of AGNs with CDF and VOICE**
+  * Credit: First author
+  * Supervisor: Prof. Wentao Luo & Prof. Huiyuan Wang
+  * Time: October 2021 - 
+  * State: **Data access proposal approved**. Still working.
+  * Abstract: VOICE is a deep field optical image survey with VST. It covers the region of Chandra Deep Field (CDF) survey. We use shape catalog of VOICE to investigate halo properties of AGNs and X-ray galaxies in CDF 7ms catalog.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+* **$M_{halo}-M_{BH}$ Relation from Weak Lensing**
+  * Credit: First author
+  * Supervisor: Prof. Martin Kilbinger (CEA) & Prof. Wentao Luo
+  * Time: July 2022 -
+  * State: **Data access proposal approved**. Primary results got, still testing.
+  * Abstract: $M_{halo}-M_{BH}$ relation has been discussed since Ferrarese (2002). It provides clues to reveal the coevolution of supermassive black holes and their host galaxies and how the environment affects the growth of supermassive black holes. There are several works on it with halo mass from galaxy clustering, globular clusters dynamics and rotation curves. We use galaxy-galaxy lensing to calibrate this relation. With virial $M_{BH}$ from Liu's and Shen's AGN catalogs and KiDS1000 and UNIONS shape catalog, we obtain **the first direct measurement to $M_{halo}-M_{BH}$ relation**. Our result is roughly consistant with illustrisTNG. 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* **Subhalo Scaling Relation from Weak Lensing Observation**
+  * Credit: First author
+  * Supervisor: Prof. Wentao Luo, Prof. Huiyuan Wang and Prof. Houjun Mo
+  * Time: July 2022 -
+  * State: In preparation
+  * Abstract: We combine data from several weak lensing survey to constrain parameters of subhalo-to-stellar mass relation.
+
+* **Dark energy properties constrain from KiDS Shear Ratio Test**
+  * Credit: First contributor .
+  * Supervisor: Prof. Matin Kilbinger and Prof. Wentao Luo
+  * Time: March 2023 - 
+  * State: In preparation
+  * Abstract: With well calibrated KiDS1000 photometric redshift distribution, we are trying to constrain cosmological parameters from shear ratio test.
+
+Research Superiors
+======
+My research supervisors now are [Prof. Wentao Luo (罗文涛)](https://www.researchgate.net/profile/Wentao-Luo) and [Prof. Huiyuan Wang (王慧元)](http://staff.ustc.edu.cn/~whywang/). Prof. Luo is an expert in weak gravitational lensing. He is a active member of [HSC](https://www.subarutelescope.org/Observing/Instruments/HSC/index.html) and [WFST](http://wfst.ustc.edu.cn/main.htm). Prof. Wang is famous for his work on tidal field reconstrution from SDSS and constrain simulation project [ELUCID](https://weiguangcui.github.io/ELUCID/). They are guiding me to the right way to become an astrophysicist.
+
+Prof. Christopher J. Miller and Prof. Martin Kilbinger are my co-supervisors. I also learn a lot from collaboration with them. Prof. Miller guides me to investigate properties of galaxy clusters. 
