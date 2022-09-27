@@ -49,6 +49,14 @@ Galaxy clusters
   * Abstract: We use two methods, caustic (dynamical analysis in phase space) and weak lensing, to measure halo mass of clusters in C4 catalog. We campare the result and analyse the potential reasons of the difference between two kinds of mass. In this work, we also compare stacked caustic mass and individual caustic mass. This is **the first comparison analysis** between them. It helps achieve better consistant halo mass measurement and reveal more potential errors.
   * Keywords: Dark matter halo, galaxy clusters, caustic mass, weak lensing, dynamical analysis, group finder.
 
+* **Weak lensing analysis for XCS clusters**
+  * Credit: First author
+  * Supervisor: Prof. Christopher J. Miller 
+  * State: just begin
+  * Time: September 2022 -
+  * Abstract: We use weak lensing method to determine $M_{WL}-L_X$ relation and $M_{WL}-T$ relation for XCS X-ray-selected clusters.
+
+
 Observational Cosmology
 =====
 * **Dark energy properties constrain from KiDS Shear Ratio Test**
