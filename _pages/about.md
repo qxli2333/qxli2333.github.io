@@ -57,7 +57,7 @@ Research experience
   * Combine data from several weak lensing survey to constrain parameters of subhalo-to-stellar mass relation.
 
 * **Dark energy properties constrain from KiDS Shear Ratio Test**
-  * Credit: First contributor .
+  * Credit: First author .
   * Supervisor: Prof. Matin Kilbinger and Prof. Wentao Luo
   * Time: March 2023 - 
   * State: In preparation

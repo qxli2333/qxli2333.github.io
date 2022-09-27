@@ -52,7 +52,7 @@ Galaxy clusters
 Observational Cosmology
 =====
 * **Dark energy properties constrain from KiDS Shear Ratio Test**
-  * Credit: First contributor .
+  * Credit: First author .
   * Supervisor: Prof. Matin Kilbinger and Prof. Wentao Luo
   * Time: March 2023 - 
   * State: In preparation
