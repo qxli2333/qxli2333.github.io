@@ -82,7 +82,7 @@ Other preparation for PhD
 
 Research Superiors
 ======
-My research supervisors now are [Prof. Wentao Luo (罗文涛)](https://www.researchgate.net/profile/Wentao-Luo) and [Prof. Huiyuan Wang (王慧元)](http://staff.ustc.edu.cn/~whywang/). Prof. Luo is an expert in weak gravitational lensing. He is a active member of [HSC](https://www.subarutelescope.org/Observing/Instruments/HSC/index.html) and [WFST](http://wfst.ustc.edu.cn/main.htm). Prof. Wang is famous for his work on tidal field reconstrution from SDSS and constrain simulation project [ELUCID](https://weiguangcui.github.io/ELUCID/). They are guiding me to the right way to become an astrophysicist.
+My research supervisors now are [Prof. Wentao Luo (罗文涛)](https://www.researchgate.net/profile/Wentao-Luo) and [Prof. Huiyuan Wang (王慧元)](http://staff.ustc.edu.cn/~whywang/). Prof. Luo is an expert in weak gravitational lensing. He is an active member of [HSC](https://www.subarutelescope.org/Observing/Instruments/HSC/index.html) and [WFST](http://wfst.ustc.edu.cn/main.htm). Prof. Wang is famous for his work on tidal field reconstrution from SDSS and constrain simulation project [ELUCID](https://weiguangcui.github.io/ELUCID/). They are guiding me to the right way to become an astrophysicist.
 
 [Prof. Christopher J. Miller](https://lsa.umich.edu/astro/people/core-faculty/christoq.html) and [Prof. Martin Kilbinger](http://www.cosmostat.org/people/kilbinger) are my co-supervisors. I also learn a lot from collaboration with them. Prof. Miller guides me to investigate properties of galaxy clusters. 
 
