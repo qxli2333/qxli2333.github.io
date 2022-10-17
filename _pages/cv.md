@@ -80,11 +80,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching experience
 ======
@@ -92,6 +92,6 @@ Teaching experience
   * Observational Astronomy (An cource for astronomy major undergraduates in USTC)
   * Lecturer: Prof. Qingfeng Zhu
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
