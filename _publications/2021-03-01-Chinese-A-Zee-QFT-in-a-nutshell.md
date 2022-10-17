@@ -9,8 +9,12 @@ paperurl: 'https://chaoli.club/index.php/7118'
 citation: 'Chaoli Translation Collaboration (2022). &amp;quot;Chinese translation of A. Zee&apos;s Quantum Field Theory in a Nutshell &amp;quot; <i>USTC press</i>'
 ---
 
-<a href='https://chaoli.club/index.php/7118'>Download paper here</a>
+<a href='https://chaoli.club/index.php/7118'>Link of Chinese Edition</a>
 
-This is the Chinese translation edition of A. Zee&apos;s textbook quantum field theory in a nutshell
+<a href='https://press.princeton.edu/books/hardcover/9780691140346/quantum-field-theory-in-a-nutshell'>Link of original Edition</a>
+
+This is the Chinese translation edition of A. Zee&apos;s textbook <i>Quantum field theory in a nutshell</i>.
+
+I worked as a main proofreader in translation progress of this book. Chaoli Translation Collaboration is a group of students and scholars focusing on translating and introducing interesting textbook into Chinese. I joined the collaboration in 2021. 
 
 Recommended citation: Chaoli Translation Collaboration (2022). &quot;Chinese translation of A. Zee's Quantum Field Theory in a Nutshell &quot; <i>USTC press</i>
