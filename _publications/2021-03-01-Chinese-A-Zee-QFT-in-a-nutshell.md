@@ -6,7 +6,7 @@ excerpt: 'This is the Chinese translation edition of A. Zee&apos;s textbook quan
 date: 2021-03-01
 venue: 'USTC press'
 paperurl: 'https://chaoli.club/index.php/7118'
-citation: 'Chaoli Translation Collaboration (2022). &amp;quot;Chinese translation of A. Zee&apos;s Quantum Field Theory in a Nutshell &amp;quot; <i>USTC press</i>'
+citation: 'Chaoli Translation Collaboration (2022). "Chinese translation of A. Zee&apos;s Quantum Field Theory in a Nutshell"  <i>USTC press</i>'
 ---
 
 <a href='https://chaoli.club/index.php/7118'>Link of Chinese Edition</a>
