@@ -57,7 +57,7 @@ Research experience
   * Abstract: We combine data from several weak lensing survey to constrain parameters of subhalo-to-stellar mass relation.
 
 * **Dark energy properties constrain from KiDS Shear Ratio Test**
-  * Credit: First author.
+  * Credit: First author
   * Supervisor: Prof. Matin Kilbinger and Prof. Wentao Luo
   * Time: March 2023 - 
   * State: In preparation
@@ -70,11 +70,14 @@ Skills
   * Rich experience in using different measurement pipelines.
   * Rich experience to construct different ESD model according to physics.
   * Awareness of main errors of galaxy-galaxy lensing.
+* MCMC model fitting.
+* Rich experience of international collaboration.
+  * Currently in three international collaboration
+  * External collaborator of VOICE and UNIONS
 * Extract data from `.fits`, `.hdf5` and ASCII table.
-  * Especially for catalog data
-* MCMC model fitting
-* Data visualization
-* Programming languages: `Python` (My usual language), `IDL`, `C` and `Fortran` (Just a beginner, Fortran is so complex and difficult for humans today)
+  * Especially for catalog data.
+* Data visualization.
+* Programming languages: `Python` (My usual language), `IDL`, `C` and `Fortran` (Just a beginner, Fortran is so complex and difficult for humans today).
 
 Publications
 ======
