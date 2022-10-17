@@ -6,13 +6,11 @@ excerpt: 'This is the Chinese translation edition of A. Zee&apos;s textbook quan
 date: 2021-03-01
 venue: 'USTC press'
 paperurl: 'https://chaoli.club/index.php/7118'
-citation: 'Chaoli Translation Collaboration (2021). &quot;Chinese translation of A. Zee's Quantum Field Theory in a Nutshell &quot; <i>USTC press</i>'
+citation: 'Chaoli Translation Collaboration (2022). &quot;Chinese translation of A. Zee's Quantum Field Theory in a Nutshell &quot; <i>USTC press</i>'
 ---
 
-Chaoli Translation Collaboration is a group of science textbooks and papers translators. We translate the textbooks we love into Chinese so that more students in China can access to the most interesting books in the world. **I participated the translation work of A. Zee's *Quantum Field Thoery in a Nutshell* as a main proofreader.**
+<a href='https://chaoli.club/index.php/7118'>Download paper here</a>
 
-[Link to orginal edition](https://www.kitp.ucsb.edu/zee/books/quantum-field-theory-nutshell)
+This is the Chinese translation edition of A. Zee&apos;s textbook quantum field theory in a nutshell
 
-[Link to Chinese translation](https://chaoli.club/index.php/7118)
-
-Recommended citation: Chaoli Translation Collaboration (2021). &quot;Chinese translation of A. Zee's Quantum Field Theory in a Nutshell &quot; <i>USTC press</i>
+Recommended citation: Li, Qinxun. (2021). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
