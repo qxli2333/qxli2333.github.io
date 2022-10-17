@@ -17,4 +17,4 @@ This is the Chinese translation edition of A. Zee&apos;s textbook <i>Quantum fie
 
 I worked as a main proofreader in translation progress of this book. Chaoli Translation Collaboration is a group of students and scholars focusing on translating and introducing interesting textbook into Chinese. I joined the collaboration in 2021. 
 
-Recommended citation: Chaoli Translation Collaboration (2022). &quot;Chinese translation of A. Zee's Quantum Field Theory in a Nutshell &quot; <i>USTC press</i>
+Recommended citation: Chaoli Translation Collaboration (2022). "Chinese translation of A. Zee's Quantum Field Theory in a Nutshell"  <i>USTC press</i>
