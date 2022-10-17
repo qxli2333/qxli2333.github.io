@@ -15,6 +15,7 @@ Education
   * GPA: **3.78/4.30**
   * Rank: 4/31
   * Jici Yan Talent Students Program in Physics $\&$ Shouguan Wang Talent Students Program in Astronomy
+  * Passing 8 graduate courses (31 credits) in math, physics and astrophysics with high grades (**3.92/4.0** or 90.4/100 for these courses)
 
 Research experience
 ======
@@ -56,7 +57,7 @@ Research experience
   * Abstract: We combine data from several weak lensing survey to constrain parameters of subhalo-to-stellar mass relation.
 
 * **Dark energy properties constrain from KiDS Shear Ratio Test**
-  * Credit: First contributor .
+  * Credit: First author.
   * Supervisor: Prof. Matin Kilbinger and Prof. Wentao Luo
   * Time: March 2023 - 
   * State: In preparation
@@ -65,14 +66,15 @@ Research experience
 Skills
 ======
 * Galaxy-galaxy Signal Measurement and Modeling
-  * Familiar with most of popular weak lensing shape catalogs: SDSS, Decals, KiDS, UNIONS, DES and HSC.
+  * Familiar with most of popular weak lensing shape catalogs: SDSS, DECaLS, KiDS, UNIONS, DES and HSC.
   * Rich experience in using different measurement pipelines.
   * Rich experience to construct different ESD model according to physics.
   * Awareness of main errors of galaxy-galaxy lensing.
 * Extract data from `.fits`, `.hdf5` and ASCII table.
   * Especially for catalog data
 * MCMC model fitting
-
+* Data visualization
+* Programming languages: `Python` (My usual language), `IDL`, `C` and `Fortran` (Just a beginner, Fortran is so complex and difficult for humans today)
 
 Publications
 ======
@@ -80,16 +82,16 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Talks
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 Teaching experience
 ======
 * 2022 Spring: Teaching Assistant and Grader
-  * Observational Astronomy (An cource for astronomy major undergraduates in USTC)
+  * Observational Astronomy (A cource for astronomy major undergraduates in USTC)
   * Lecturer: Prof. Qingfeng Zhu
   
 <!-- Service and leadership

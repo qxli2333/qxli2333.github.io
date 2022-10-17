@@ -1,7 +1,7 @@
 ---
 title: "General Relativity Seminar 2021 Summer: An Introduction to General Relativity"
 collection: talks
-type: "Short term lecture"
+type: "Short term lectures"
 permalink: /talks/2021-07-01-gr-seminar
 venue: "United Academic Forum of Basic Science for Undergraduates in China"
 date: 2021-07-01
