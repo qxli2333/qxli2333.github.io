@@ -1,10 +1,10 @@
 ---
 title: "Chinese edition of A. Zee's QFT in a nutshell"
 collection: publications
-permalink: /publication/2022-Chinese-A-Zee-QFT-in-a-nutshell
+permalink: /publication/2021-03-01-Chinese-A-Zee-QFT-in-a-nutshell
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-01-21
-venue: 'Journal 1'
+date: 2021-03-01
+venue: 'USTC press'
 paperurl: 'https://www.kitp.ucsb.edu/zee/books/quantum-field-theory-nutshell'
 citation: 'Chaoli Translation Collaboration (2022). &quot;Chinese translation of A. Zee's Quantum Field Theory in a Nutshell &quot; <i>USTC press</i>'
 ---
