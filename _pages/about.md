@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! My name is Qinxun Li (李秦埙). Currently I am an undergraduate student from [University of Science and Technology of China (USTC)](https://en.physics.ustc.edu.cn/main.htm). My major is **Astronomy**. Now I am visiting University of Michigan and working with Prof. Christopher Miller. I am a collaborator of [UNIONS](https://www.skysurvey.cc/) and [XCS](https://astro.ukzn.ac.za/~xcs/).
 
-I will get my bachelor degree on July 2023. Now I am looking for PhD position to continue my education and research.
+I will get my Bachelor of Science degree on July 2023. Now I am applying for PhD position to continue my education and research.
 
 Research experience
 ======
@@ -20,17 +20,16 @@ Research experience
   * Supervisor: [Prof. Wentao Luo](https://www.researchgate.net/profile/Wentao-Luo) (USTC) and [Prof. Huiyuan Wang](http://staff.ustc.edu.cn/~whywang/) (USTC)
   * State: To be submitted to ApJ
   * Apply galaxy-galaxy lensing to satellite galaxies in Yang's SDSS group catalog 
-  * **Find an unreported selection effect** 
-  * **Smaller subhalo suffers more sever tidal stripping**.
+  * **Discover an unreported selection effect** 
+  * We find that **Smaller subhalo suffers more sever tidal stripping**.
 
-  
 * **Comparison between Caustic Mass and Weak Lensing Mass**
   * Credit: Second author. I conducted most of measurement, modeling and tests of weak lensing side
   * Supervisor: [Prof. Chris Miller](https://lsa.umich.edu/astro/people/core-faculty/christoq.html) (Umich. First author of the paper) and [Prof. Wentao Luo](https://www.researchgate.net/profile/Wentao-Luo)
   * State: Paper in preparation.
   * Use two methods, caustic (dynamical analysis in phase space) and weak lensing, to measure halo mass of clusters in C4 catalog.
-  * **The first comparison analysis** between stacked caustic and stack weak lensing. 
-  * Helps achieve better consistant halo mass measurement and reveal more potential errors.
+  * **The first comparison analysis** between stacked caustic and stack weak lensing halo mass. 
+  * Help achieve better consistent halo mass measurement and reveal more potential errors.
 
 * **Investigating halo properties of AGNs with CDF and VOICE**
   * Credit: First author
@@ -43,7 +42,6 @@ Research experience
   * Supervisor: [Prof. Martin Kilbinger](http://www.cosmostat.org/people/kilbinger) (CEA) & [Prof. Wentao Luo](https://www.researchgate.net/profile/Wentao-Luo)
   * State: **Data access proposal approved**. 
   * **The first weak lensing measurement to $M_{halo}-M_{BH}$ relation**
-  * Roughly consistant with illustrisTNG. 
 
 * **Subhalo Scaling Relation from Weak Lensing Observation**
   * Credit: First author
