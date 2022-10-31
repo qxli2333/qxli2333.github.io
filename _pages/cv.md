@@ -32,7 +32,7 @@ Research experience
   * Supervisor: Prof. Christopher J. Miller (University of Michigan, Umich. First author of the paper) and Prof. Wentao Luo
   * State: Most of work are completed. Paper in preparation.
   * Time: October 2021 - September 2022
-  * Abstract: We use two methods, caustic (dynamical analysis in phase space) and weak lensing, to measure halo mass of clusters in C4 catalog. We campare the result and analyse the potential reasons of the difference between two kinds of mass. In this work, we also compare stacked caustic mass and individual caustic mass. This is **the first comparison analysis** between them. It helps achieve better consistant halo mass measurement and reveal more potential errors.
+  * Abstract: We use two methods, caustic (dynamical analysis in phase space) and weak lensing, to measure halo mass of clusters in C4 catalog. We campare the result and analyse the potential reasons of the difference between two kinds of mass. In this work, we also compare stacked caustic mass and individual caustic mass. This is **the first comparison analysis** among them. It helps achieve precise and consistant halo mass measurement and reveal more potential errors.
   * Keywords: Dark matter halo, galaxy clusters, caustic mass, weak lensing, dynamical analysis, group finder.
 
 * **Investigating halo properties of AGNs with CDF and VOICE**
@@ -96,7 +96,19 @@ Teaching experience
 * 2022 Spring: Teaching Assistant and Grader
   * Observational Astronomy (A cource for astronomy major undergraduates in USTC)
   * Lecturer: Prof. Qingfeng Zhu
-  
+
+Honors and Awards
+======
+* Linbridge Prize for Excellent Undergraduate Research Projects in Astronomy and Astrophysics
+  * 09/2022
+  * Kavli Institute for Astronomy and Astrophysics at Peking University
+* Excellent Poster Prize at USTC Undergraduate Academic Annual Conference
+  * 05/2022
+  * University of Science and Technology of China
+* USTC Scholarship for Excellent Student
+  * 2021
+* USTC Fellowship for Excellent Visiting Student
+  * 2022
 <!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
