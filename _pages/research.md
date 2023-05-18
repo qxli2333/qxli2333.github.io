@@ -9,16 +9,16 @@ redirect_from:
 
 Galaxy formation and evolution
 ======
-* **Subhalo Properties From SDSS Satellte Lensing**
+* **Subhalo Properties From SDSS Lensing**
   * Credit: First author
   * Supervisor: Prof. Wentao Luo (USTC) and Prof. Huiyuan Wang (USTC)
   * State: To be submitted to ApJ
-  * Time: August 2021 - September 2022
+  * Time: July 2021 
   * Abstract: In this work, we apply galaxy-galaxy lensing, a powful method to constrain halo properties, to satellite galaxies in Yang's SDSS group catalog. With the largest lens sample among state-of-art satellite lensing works, we **find an unreported selection effect**. We develop a weighting method to correct this bias. We find that for high stellar mass satellites, there is not any strong $M_{sub}-R_{sep}$ dependence. However, for low stellar mass satellites, a 2$\sigma$ significantly positive slope is found for $\log M_{sub}-R_{sep}$. It indicates that **smaller subhalo suffers more sever tidal stripping**.
   * Key words: Subhalo, galaxy, galaxy group, extragalatic astrophysics, weak lensing, dark matter halo, tidal stripping.
 
 
-* **Investigating halo properties of AGNs with CDF and VOICE**
+<!-- * **Investigating halo properties of AGNs with CDF and VOICE**
   * Credit: First author
   * Supervisor: Prof. Wentao Luo & Prof. Huiyuan Wang
   * Time: October 2021 - 
@@ -47,7 +47,7 @@ Galaxy clusters
   * State: Most of work are completed. Paper in preparation.
   * Time: October 2021 - September 2022
   * Abstract: We use two methods, caustic (dynamical analysis in phase space) and weak lensing, to measure halo mass of clusters in C4 catalog. We campare the result and analyse the potential reasons of the difference between two kinds of mass. In this work, we also compare stacked caustic mass and individual caustic mass. This is **the first comparison analysis** between them. It helps achieve better consistant halo mass measurement and reveal more potential errors.
-  * Keywords: Dark matter halo, galaxy clusters, caustic mass, weak lensing, dynamical analysis, group finder.
+  * Keywords: Dark matter halo, galaxy clusters, caustic mass, weak lensing, dynamical analysis, group finder. -->
 
 * **Weak lensing analysis for XCS clusters**
   * Credit: First author
@@ -57,11 +57,11 @@ Galaxy clusters
   * Abstract: We use weak lensing method to determine $M_{WL}-L_X$ relation and $M_{WL}-T$ relation for XCS X-ray-selected clusters.
 
 
-Observational Cosmology
+<!-- Observational Cosmology
 =====
 * **Dark energy properties constrain from KiDS Shear Ratio Test**
   * Credit: First author .
   * Supervisor: Prof. Matin Kilbinger and Prof. Wentao Luo
   * Time: March 2023 - 
   * State: In preparation
-  * Abstract: With well calibrated KiDS1000 photometric redshift distribution, we are trying to constrain cosmological parameters from shear ratio test.
+  * Abstract: With well calibrated KiDS1000 photometric redshift distribution, we are trying to constrain cosmological parameters from shear ratio test. -->

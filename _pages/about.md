@@ -12,7 +12,7 @@ Hello! My name is Qinxun Li (李秦埙). Currently I am an undergraduate student
 
 I will get my Bachelor of Science degree on July 2023. Now I am applying for PhD position to continue my education and research.
 
-Research experience
+<!-- Research experience
 ======
 **For more details or entire abstract of papers, see [Research Experience](research.md) and [Publication](publications.md)**
 * **Subhalo Properties From SDSS Satellte Lensing**
@@ -99,4 +99,4 @@ Research Interests
 
 I am only a beginner in astronomy and astrophysics with pratical experience in few fields. **So I am always very willing to participate in work of unfamiliar fields.** 
 
-'*' in the list above means that I have pratical experience in that field. During my undergraduate career, my research focus on applying weak lensing technique to do astrophysics and cosmology. However, I also keep in touch with several topics such as cosmological simulation, photoz calibration, galaxy quenching, galactic dynamics, group finder, AGN feedback and so on through courses, talks, group members, collaborators and arxiv. I hope to explore wider world, or larger universe, during my graduate period.
+'*' in the list above means that I have pratical experience in that field. During my undergraduate career, my research focus on applying weak lensing technique to do astrophysics and cosmology. However, I also keep in touch with several topics such as cosmological simulation, photoz calibration, galaxy quenching, galactic dynamics, group finder, AGN feedback and so on through courses, talks, group members, collaborators and arxiv. I hope to explore wider world, or larger universe, during my graduate period. -->

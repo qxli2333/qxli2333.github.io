@@ -19,7 +19,7 @@ Education
 
 Research experience
 ======
-* **Subhalo Properties From SDSS Satellte Lensing**
+<!-- * **Subhalo Properties From SDSS Satellte Lensing**
   * Credit: First author
   * Supervisor: Prof. Wentao Luo (USTC) and Prof. Huiyuan Wang (USTC)
   * State: To be submitted to ApJ
@@ -47,37 +47,37 @@ Research experience
   * Supervisor: Prof. Martin Kilbinger (CEA) & Prof. Wentao Luo
   * Time: July 2022 -
   * State: **Data access proposal approved**. Primary results got, still testing.
-  * Abstract: $M_{halo}-M_{BH}$ relation has been discussed since Ferrarese (2002). It provides clues to reveal the coevolution of supermassive black holes and their host galaxies and how the environment affects the growth of supermassive black holes. There are several works on it with halo mass from galaxy clustering, globular clusters dynamics and rotation curves. We use galaxy-galaxy lensing to calibrate this relation. With virial $M_{BH}$ from catalogs and yp-to-date KiDS1000 and UNIONS shape catalog, we obtain **the first direct measurement to $M_{halo}-M_{BH}$ relation**. Our result is roughly consistant with illustrisTNG. 
+  * Abstract: $M_{halo}-M_{BH}$ relation has been discussed since Ferrarese (2002). It provides clues to reveal the coevolution of supermassive black holes and their host galaxies and how the environment affects the growth of supermassive black holes. There are several works on it with halo mass from galaxy clustering, globular clusters dynamics and rotation curves. We use galaxy-galaxy lensing to calibrate this relation. With virial $M_{BH}$ from catalogs and yp-to-date KiDS1000 and UNIONS shape catalog, we obtain **the first direct measurement to $M_{halo}-M_{BH}$ relation**. Our result is roughly consistant with illustrisTNG.  -->
 
 * **Subhalo Scaling Relation from Weak Lensing Observation**
   * Credit: First author
   * Supervisor: Prof. Wentao Luo, Prof. Huiyuan Wang and Prof. Houjun Mo
-  * Time: July 2022 -
+  * Time: July 2021 -
   * State: In preparation
   * Abstract: We combine data from several weak lensing survey to constrain parameters of subhalo-to-stellar mass relation.
 
-* **Dark energy properties constrain from KiDS Shear Ratio Test**
+<!-- * **Dark energy properties constrain from KiDS Shear Ratio Test**
   * Credit: First author
   * Supervisor: Prof. Matin Kilbinger and Prof. Wentao Luo
   * Time: March 2023 - 
   * State: In preparation
-  * Abstract: With well calibrated KiDS1000 photometric redshift distribution, we are trying to constrain cosmological parameters from shear ratio test.
+  * Abstract: With well calibrated KiDS1000 photometric redshift distribution, we are trying to constrain cosmological parameters from shear ratio test. -->
 
 Skills
 ======
 * Galaxy-galaxy Signal Measurement and Modeling
   * Familiar with most of popular weak lensing shape catalogs: SDSS, DECaLS, KiDS, UNIONS, DES and HSC.
-  * Rich experience in using different measurement pipelines.
+  <!-- * Rich experience in using different measurement pipelines.
   * Rich experience to construct different ESD model according to physics.
-  * Awareness of main errors of galaxy-galaxy lensing.
-* MCMC model fitting.
+  * Awareness of main errors of galaxy-galaxy lensing. -->
+<!-- * MCMC model fitting.
 * Rich experience of international collaboration.
   * Currently in three international collaboration
   * External collaborator of VOICE and UNIONS
 * Extract data from `.fits`, `.hdf5` and ASCII table.
   * Especially for catalog data.
 * Data visualization.
-* Programming languages: `Python` (My usual language), `IDL`, `C` and `Fortran` (Just a beginner, Fortran is so complex and difficult for humans today).
+* Programming languages: `Python` (My usual language), `IDL`, `C` and `Fortran` (Just a beginner, Fortran is so complex and difficult for humans today).  -->
 
 Publications
 ======
