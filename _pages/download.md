@@ -24,7 +24,7 @@ Resources of Lectures
   * Cover most of *Cosmology* graduate course and half of *Particle Cosmology* graduate course in USTC
   * Password: Cosmo_QinxunLi
 
-PDF version of my CV
-=====
-[My CV](https://qxli2333.github.io/files/Entire_CV.pdf)
+<!-- PDF version of my CV -->
+<!-- ===== -->
+<!-- [My CV](https://qxli2333.github.io/files/Entire_CV.pdf) -->
 
