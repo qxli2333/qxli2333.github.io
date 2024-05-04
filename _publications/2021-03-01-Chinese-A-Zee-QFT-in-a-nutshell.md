@@ -13,8 +13,8 @@ citation: 'Chaoli Translation Collaboration (2022). "Chinese translation of A. Z
 
 <a href='https://press.princeton.edu/books/hardcover/9780691140346/quantum-field-theory-in-a-nutshell'>Link of original Edition</a>
 
-This is the Chinese translation edition of A. Zee&apos;s textbook <i>Quantum field theory in a nutshell</i>.
+This is the Chinese translation edition of A. Zee&apos;s textbook <i>Quantum field theory in a nutshell</i>, which is a famous textbook in theoretical physics.
 
-I worked as a main proofreader in translation progress of this book. Chaoli Translation Collaboration is a group of students and scholars focusing on translating and introducing interesting textbook into Chinese. I joined the collaboration in 2021. 
+I worked as a proofreader in translation progress of this book. Chaoli Translation Collaboration is a group of students and scholars focusing on translating and introducing interesting textbook into Chinese. I joined the collaboration in 2021. 
 
 Recommended citation: Chaoli Translation Collaboration (2022). "Chinese translation of A. Zee's Quantum Field Theory in a Nutshell"  <i>USTC press</i>
