@@ -16,8 +16,9 @@ Education
   * Research interest: Cosmology, large scale structure and galaxy evolution
 
 * B.S. in Astronomy, University of Science and Technology of China, Sep. 2019 -- July 2023
-  * GPA: **3.80/4.30**
+  * GPA: 3.80/4.30
   * Jici Yan Talent Students Program in Physics $\&$ Shouguan Wang Talent Students Program in Astronomy
+  * Outstanding Graduate of USTC
   * Passing 8 graduate courses (31 credits) in math, physics and astrophysics with high grades (**3.92/4.0** or 90.4/100 for these courses)
 
 Research experience
@@ -45,19 +46,23 @@ Research experience
   * State: **Data access proposal approved**. Still working.
   * Abstract: VOICE is a deep field optical image survey with VST. It covers the region of Chandra Deep Field (CDF) survey. We use shape catalog of VOICE to investigate halo properties of AGNs and X-ray galaxies in CDF 7ms catalog.
 -->
+* **Swigart Fellowship Summer Research Project**
+  * Supervisor: Prof. Kyle Dawson
+  * Time: May 2024 - August 2024
+  * Topic: DESI constraints on neutrino mass in models with decaying dark matter
+
 * **$M_{BH}-M_{halo}$ Relation from UNIONS Weak Lensing**
   * Credit: First author
   * Supervisor: Prof. Martin Kilbinger (CEA) & Prof. Wentao Luo
-  * Time: July 2022 - February 2024
+  * Time: July 2022 - February 2024 (remote after July 2023)
   * State: Submitted to AAS Journals
   * Abstract: We conduct, for the first time, direct constraints on the black-hole-to-halo-mass relation using weak gravitational lensing measurements. We construct type I and type II Active Galactic Nuclei (AGNs) samples from the Sloan Digital Sky Survey (SDSS), with a mean redshift of 0.4-0.1 for type I (type II) AGNs. This sample is cross-correlated with weak lensing shear from the Ultraviolet Near Infrared Northern Survey (UNIONS). We compute the excess surface mass density of the halos associated with 36,181 AGNs from 94,308,561 lensed galaxies and fit the halo mass in bins of black-hole mass. We find that more massive AGNs reside in more massive halos. We see no evidence of dependence on AGN type or redshift in the black-hole-to-halo-mass relationship when systematic errors in the measured black-hole masses are included. Our results are consistent with previous measurements for non-AGN galaxies. At a fixed black-hole mass, our weak-lensing halo masses are consistent with galaxy rotation curves, but significantly lower than galaxy clustering measurements. Finally, our results are broadly consistent with state-of-the-art hydro-dynamical cosmological simulations, providing a new constraint for black-hole masses in simulations.
 
-<!-- * **Subhalo Scaling Relation from Weak Lensing Observation**
+* **Subhalo Scaling Relation from Weak Lensing Observation**
   * Credit: First author
   * Supervisor: Prof. Wentao Luo, Prof. Huiyuan Wang and Prof. Houjun Mo
   * Time: July 2021 -
   * State: In preparation
-  * Abstract: We combine data from several weak lensing survey to constrain parameters of subhalo-to-stellar mass relation. -->
 
 <!-- * **Dark energy properties constrain from KiDS Shear Ratio Test**
   * Credit: First author
@@ -70,9 +75,11 @@ Skills
 ======
 * Galaxy-galaxy Signal Measurement and Modeling
   * Familiar with most of popular weak lensing shape catalogs: SDSS, DECaLS, KiDS, UNIONS, DES and HSC.
-  <!-- * Rich experience in using different measurement pipelines.
+<!-- * Rich experience in using different measurement pipelines.
   * Rich experience to construct different ESD model according to physics.
-  * Awareness of main errors of galaxy-galaxy lensing. -->
+  * Awareness of main errors of galaxy-galaxy lensing.
+-->
+
 <!-- * MCMC model fitting.
 * Rich experience of international collaboration.
   * Currently in three international collaboration
@@ -80,7 +87,8 @@ Skills
 * Extract data from `.fits`, `.hdf5` and ASCII table.
   * Especially for catalog data.
 * Data visualization.
-* Programming languages: `Python` (My usual language), `IDL`, `C` and `Fortran` (Just a beginner, Fortran is so complex and difficult for humans today).  -->
+* Programming languages: `Python` (My usual language), `IDL`, `C` and `Fortran` (Just a beginner, Fortran is so complex and difficult for humans today).
+-->
 
 Publications
 ======
@@ -96,9 +104,17 @@ Talks
   
 Teaching experience
 ======
-* 2022 Spring: Teaching Assistant and Grader
-  * Observational Astronomy (A cource for astronomy major undergraduates in USTC)
-  * Lecturer: Prof. Qingfeng Zhu
+* 2024 Spring: Teaching Assistant at University of Utah
+  * ASTR 1060: The Universe
+  * Instructor: Prof. Dennis Soldin
+
+* 2023 Fall: Grader at University of Utah
+  * ASTR 3070: Foundations of Astronomy
+  * Instructor: Prof. Gail Zasowski
+  
+* 2022 Spring: Teaching Assistant at USTC
+  * 022167: Observational Astronomy (A cource for astronomy major undergraduates in USTC)
+  * Instructor: Prof. Qingfeng Zhu
 
 Honors and Awards
 ======
