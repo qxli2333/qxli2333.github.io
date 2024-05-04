@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Grade"
-    url: /grades/ 
+  # - title: "Grade"
+  #   url: /grades/ 
 
   - title: "Publications"
     url: /publications/
