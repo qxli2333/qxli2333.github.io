@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /grades/
 title: "Courses and Grades"
 excerpt: "Courses and Grades"
@@ -54,5 +54,5 @@ Basic Math Course
 Programming Course
 =====
 * **Computer Programming (90)**
-* Computational Physics (87)
+* Computational Physics (87) -->
 

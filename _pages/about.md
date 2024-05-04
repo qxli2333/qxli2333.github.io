@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Qinxun Li (李秦埙). Currently I am an undergraduate student from [University of Science and Technology of China (USTC)](https://en.physics.ustc.edu.cn/main.htm). My major is **Astronomy**. Now I am visiting University of Michigan and working with Prof. Christopher Miller. I am a collaborator of [UNIONS](https://www.skysurvey.cc/) and [XCS](https://astro.ukzn.ac.za/~xcs/).
+<!-- Hello! My name is Qinxun Li (李秦埙). Currently I am an undergraduate student from [University of Science and Technology of China (USTC)](https://en.physics.ustc.edu.cn/main.htm). My major is **Astronomy**. Now I am visiting University of Michigan and working with Prof. Christopher Miller. I am a collaborator of [UNIONS](https://www.skysurvey.cc/) and [XCS](https://astro.ukzn.ac.za/~xcs/).
 
-I will get my Bachelor of Science degree on July 2023. Now I am applying for PhD position to continue my education and research.
+I will get my Bachelor of Science degree on July 2023. Now I am applying for PhD position to continue my education and research. -->
+
+Hello! My name is Qinxun Li (李秦埙). Currently I am a graduate student in [University of Utah](https://www.utah.edu/). I work with [Prof. Kyle Dawson](https://faculty.utah.edu/u6000137-Kyle_Dawson/hm/index.hml) on observational cosmology. 
+
+I got my Bachelor of Science degree in Astronomy from [University of Science and Technology of China (USTC)](https://astro.ustc.edu.cn/main.htm). My research interest is cosmology, large scale structure and galaxy evolution. 
 
 <!-- Research experience
 ======
