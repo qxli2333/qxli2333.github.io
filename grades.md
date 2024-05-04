@@ -54,5 +54,6 @@ Basic Math Course
 Programming Course
 =====
 * **Computer Programming (90)**
-* Computational Physics (87) -->
+* Computational Physics (87) 
+-->
 

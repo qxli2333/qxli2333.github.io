@@ -75,6 +75,7 @@ Skills
 ======
 * Galaxy-galaxy Signal Measurement and Modeling
   * Familiar with most of popular weak lensing shape catalogs: SDSS, DECaLS, KiDS, UNIONS, DES and HSC.
+
 <!-- * Rich experience in using different measurement pipelines.
   * Rich experience to construct different ESD model according to physics.
   * Awareness of main errors of galaxy-galaxy lensing.
@@ -124,9 +125,11 @@ Honors and Awards
 * Excellent Poster Prize at USTC Undergraduate Academic Annual Conference
   * 05/2022
   * University of Science and Technology of China
+
 <!-- * USTC Scholarship for Excellent Student
   * 2021
 * USTC Fellowship for Excellent Visiting Student
   * 2022 -->
+
 <!-- Service and leadership
 * Currently signed in to 43 different slack teams -->
