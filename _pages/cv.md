@@ -41,20 +41,20 @@ Research experience
   * Time: October 2021 - 
   * State: **Data access proposal approved**. Still working.
   * Abstract: VOICE is a deep field optical image survey with VST. It covers the region of Chandra Deep Field (CDF) survey. We use shape catalog of VOICE to investigate halo properties of AGNs and X-ray galaxies in CDF 7ms catalog.
-
-* **$M_{halo}-M_{BH}$ Relation from Weak Lensing**
+-->
+* **$M_{BH}-M_{halo}$ Relation from UNIONS Weak Lensing**
   * Credit: First author
   * Supervisor: Prof. Martin Kilbinger (CEA) & Prof. Wentao Luo
-  * Time: July 2022 -
-  * State: **Data access proposal approved**. Primary results got, still testing.
-  * Abstract: $M_{halo}-M_{BH}$ relation has been discussed since Ferrarese (2002). It provides clues to reveal the coevolution of supermassive black holes and their host galaxies and how the environment affects the growth of supermassive black holes. There are several works on it with halo mass from galaxy clustering, globular clusters dynamics and rotation curves. We use galaxy-galaxy lensing to calibrate this relation. With virial $M_{BH}$ from catalogs and yp-to-date KiDS1000 and UNIONS shape catalog, we obtain **the first direct measurement to $M_{halo}-M_{BH}$ relation**. Our result is roughly consistant with illustrisTNG.  -->
+  * Time: July 2022 - February 2024
+  * State: Submitted to AAS Journals
+  * Abstract: We conduct, for the first time, direct constraints on the black-hole-to-halo-mass relation using weak gravitational lensing measurements. We construct type I and type II Active Galactic Nuclei (AGNs) samples from the Sloan Digital Sky Survey (SDSS), with a mean redshift of 0.4-0.1 for type I (type II) AGNs. This sample is cross-correlated with weak lensing shear from the Ultraviolet Near Infrared Northern Survey (UNIONS). We compute the excess surface mass density of the halos associated with 36,181 AGNs from 94,308,561 lensed galaxies and fit the halo mass in bins of black-hole mass. We find that more massive AGNs reside in more massive halos. We see no evidence of dependence on AGN type or redshift in the black-hole-to-halo-mass relationship when systematic errors in the measured black-hole masses are included. Our results are consistent with previous measurements for non-AGN galaxies. At a fixed black-hole mass, our weak-lensing halo masses are consistent with galaxy rotation curves, but significantly lower than galaxy clustering measurements. Finally, our results are broadly consistent with state-of-the-art hydro-dynamical cosmological simulations, providing a new constraint for black-hole masses in simulations.
 
-* **Subhalo Scaling Relation from Weak Lensing Observation**
+<!-- * **Subhalo Scaling Relation from Weak Lensing Observation**
   * Credit: First author
   * Supervisor: Prof. Wentao Luo, Prof. Huiyuan Wang and Prof. Houjun Mo
   * Time: July 2021 -
   * State: In preparation
-  * Abstract: We combine data from several weak lensing survey to constrain parameters of subhalo-to-stellar mass relation.
+  * Abstract: We combine data from several weak lensing survey to constrain parameters of subhalo-to-stellar mass relation. -->
 
 <!-- * **Dark energy properties constrain from KiDS Shear Ratio Test**
   * Credit: First author
@@ -105,10 +105,9 @@ Honors and Awards
 * Excellent Poster Prize at USTC Undergraduate Academic Annual Conference
   * 05/2022
   * University of Science and Technology of China
-* USTC Scholarship for Excellent Student
+<!-- * USTC Scholarship for Excellent Student
   * 2021
 * USTC Fellowship for Excellent Visiting Student
-  * 2022
+  * 2022 -->
 <!-- Service and leadership
-======
 * Currently signed in to 43 different slack teams -->
