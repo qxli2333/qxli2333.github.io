@@ -7,8 +7,18 @@ redirect_from:
   - /research.html
 ---
 
-Galaxy formation and evolution
-======
+* **Swigart Fellowship Summer Research Project**
+  * Supervisor: Prof. Kyle Dawson
+  * Time: May 2024 - August 2024
+  * Topic: DESI constraints on neutrino mass in models with decaying dark matter
+
+* **$M_{BH}-M_{halo}$ Relation from UNIONS Weak Lensing**
+  * Credit: First author
+  * Supervisor: Prof. Martin Kilbinger (CEA) & Prof. Wentao Luo
+  * Time: July 2022 - February 2024 (remote after July 2023)
+  * State: Submitted to AAS Journals
+  * Abstract: We conduct, for the first time, direct constraints on the black-hole-to-halo-mass relation using weak gravitational lensing measurements. We construct type I and type II Active Galactic Nuclei (AGNs) samples from the Sloan Digital Sky Survey (SDSS), with a mean redshift of 0.4-0.1 for type I (type II) AGNs. This sample is cross-correlated with weak lensing shear from the Ultraviolet Near Infrared Northern Survey (UNIONS). We compute the excess surface mass density of the halos associated with 36,181 AGNs from 94,308,561 lensed galaxies and fit the halo mass in bins of black-hole mass. We find that more massive AGNs reside in more massive halos. We see no evidence of dependence on AGN type or redshift in the black-hole-to-halo-mass relationship when systematic errors in the measured black-hole masses are included. Our results are consistent with previous measurements for non-AGN galaxies. At a fixed black-hole mass, our weak-lensing halo masses are consistent with galaxy rotation curves, but significantly lower than galaxy clustering measurements. Finally, our results are broadly consistent with state-of-the-art hydro-dynamical cosmological simulations, providing a new constraint for black-hole masses in simulations.
+  
 * **Subhalo Properties From SDSS Lensing**
   * Credit: First author
   * Supervisor: Prof. Wentao Luo (USTC) and Prof. Huiyuan Wang (USTC)
@@ -16,7 +26,7 @@ Galaxy formation and evolution
   * Time: July 2021 
   * Abstract: In this work, we apply galaxy-galaxy lensing, a powerful method to constrain halo properties, to group member galaxies in Yang's SDSS group catalog. We constrain the subhalo-to-stellar mass relation.
   <!-- * With the largest lens sample among state-of-art satellite lensing works, we **find an unreported selection effect**. We develop a weighting method to correct this bias. We find that for high stellar mass satellites, there is not any strong $M_{sub}-R_{sep}$ dependence. However, for low stellar mass satellites, a 2$\sigma$ significantly positive slope is found for $\log M_{sub}-R_{sep}$. It indicates that **smaller subhalo suffers more sever tidal stripping**. -->
-  * Key words: Subhalo, galaxy, galaxy group, extragalatic astrophysics, weak lensing, dark matter halo, tidal stripping.
+  * Key words: Subhalo, galaxy, galaxy group, weak lensing, dark matter halo.
 
 
 <!-- * **Investigating halo properties of AGNs with CDF and VOICE**
