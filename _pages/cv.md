@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+## [My CV in PDF](https://qxli2333.github.io/files/CV.pdf)
+
 <!-- Education
 ======
 * Ph.D. in Physics (Astronomy track), University of Utah, Aug. 2023 -- 
