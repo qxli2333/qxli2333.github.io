@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 * Ph.D. in Physics (Astronomy track), University of Utah, Aug. 2023 -- 
   * Supervisor: Prof. Kyle Dawson
@@ -22,7 +22,7 @@ Education
   * Passing 8 graduate courses (31 credits) in math, physics and astrophysics with high grades (**3.92/4.0** or 90.4/100 for these courses)
 
 Research experience
-======
+====== -->
 <!-- * **Subhalo Properties From SDSS Satellte Lensing**
   * Credit: First author
   * Supervisor: Prof. Wentao Luo (USTC) and Prof. Huiyuan Wang (USTC)
@@ -46,7 +46,7 @@ Research experience
   * State: **Data access proposal approved**. Still working.
   * Abstract: VOICE is a deep field optical image survey with VST. It covers the region of Chandra Deep Field (CDF) survey. We use shape catalog of VOICE to investigate halo properties of AGNs and X-ray galaxies in CDF 7ms catalog.
 -->
-* **Swigart Fellowship Summer Research Project**
+<!-- * **Swigart Fellowship Summer Research Project**
   * Supervisor: Prof. Kyle Dawson
   * Time: May 2024 - August 2024
   * Topic: DESI constraints on neutrino mass in models with decaying dark matter
@@ -62,7 +62,7 @@ Research experience
   * Credit: First author
   * Supervisor: Prof. Wentao Luo, Prof. Huiyuan Wang and Prof. Houjun Mo
   * Time: July 2021 -
-  * State: In preparation
+  * State: In preparation -->
 
 <!-- * **Dark energy properties constrain from KiDS Shear Ratio Test**
   * Credit: First author
@@ -71,10 +71,10 @@ Research experience
   * State: In preparation
   * Abstract: With well calibrated KiDS1000 photometric redshift distribution, we are trying to constrain cosmological parameters from shear ratio test. -->
 
-Skills
+<!-- Skills
 ======
 * Galaxy-galaxy Signal Measurement and Modeling
-  * Familiar with most of popular weak lensing shape catalogs: SDSS, DECaLS, KiDS, UNIONS, DES and HSC.
+  * Familiar with most of popular weak lensing shape catalogs: SDSS, DECaLS, KiDS, UNIONS, DES and HSC. -->
 
 <!-- * Rich experience in using different measurement pipelines.
   * Rich experience to construct different ESD model according to physics.
@@ -91,7 +91,7 @@ Skills
 * Programming languages: `Python` (My usual language), `IDL`, `C` and `Fortran` (Just a beginner, Fortran is so complex and difficult for humans today).
 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -124,7 +124,7 @@ Honors and Awards
   * Kavli Institute for Astronomy and Astrophysics at Peking University
 * Excellent Poster Prize at USTC Undergraduate Academic Annual Conference
   * 05/2022
-  * University of Science and Technology of China
+  * University of Science and Technology of China -->
 
 <!-- * USTC Scholarship for Excellent Student
   * 2021
