@@ -11,19 +11,18 @@ redirect_from:
 
 ## [My CV in PDF](https://qxli2333.github.io/files/CV.pdf)
 
-<!-- Education
+Education
 ======
 * Ph.D. in Physics (Astronomy track), University of Utah, Aug. 2023 -- 
-  * Supervisor: Prof. Kyle Dawson
-  * Research interest: Cosmology, large scale structure and galaxy evolution
+  * Research Advisor: Prof. Kyle Dawson
+  * Research Topic: Baryon Acoustic Oscillation Measurement and Cosmological Constraints
 
 * B.S. in Astronomy, University of Science and Technology of China, Sep. 2019 -- July 2023
-  * GPA: 3.80/4.30
-  * Jici Yan Talent Students Program in Physics $\&$ Shouguan Wang Talent Students Program in Astronomy
-  * Outstanding Graduate of USTC
-  * Passing 8 graduate courses (31 credits) in math, physics and astrophysics with high grades (**3.92/4.0** or 90.4/100 for these courses)
+  * Research Advisor: Prof. Wentao Luo \& Prof. Huiyuan Wang
+  * Thesis: Constraining Satellite Galaxy-Subhalo Connection with Weak Gravitational Lensing
 
-Research experience
+
+<!-- Research experience
 ====== -->
 <!-- * **Subhalo Properties From SDSS Satellte Lensing**
   * Credit: First author
