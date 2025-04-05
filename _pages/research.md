@@ -1,13 +1,17 @@
 ---
 permalink: /research/
-title: "Research Experience"
-excerpt: "Research Experience"
+title: "Research Fields"
+excerpt: "Research Fields"
 author_profile: true
 redirect_from: 
   - /research.html
 ---
 
-* **Swigart Fellowship Summer Research Project**
+* Observational Cosmology
+  * Baryon Acoustic Oscillation (BAO)
+
+
+<!-- * **Swigart Fellowship Summer Research Project**
   * Supervisor: Prof. Kyle Dawson
   * Time: May 2024 - August 2024
   * Topic: DESI constraints on neutrino mass in models with decaying dark matter
@@ -25,8 +29,8 @@ redirect_from:
   * State: To be submitted to ApJ
   * Time: July 2021 
   * Abstract: In this work, we apply galaxy-galaxy lensing, a powerful method to constrain halo properties, to group member galaxies in Yang's SDSS group catalog. We constrain the subhalo-to-stellar mass relation.
-  <!-- * With the largest lens sample among state-of-art satellite lensing works, we **find an unreported selection effect**. We develop a weighting method to correct this bias. We find that for high stellar mass satellites, there is not any strong $M_{sub}-R_{sep}$ dependence. However, for low stellar mass satellites, a 2$\sigma$ significantly positive slope is found for $\log M_{sub}-R_{sep}$. It indicates that **smaller subhalo suffers more sever tidal stripping**. -->
-  * Key words: Subhalo, galaxy, galaxy group, weak lensing, dark matter halo.
+  <!-- * With the largest lens sample among state-of-art satellite lensing works, we **find an unreported selection effect**. We develop a weighting method to correct this bias. We find that for high stellar mass satellites, there is not any strong $M_{sub}-R_{sep}$ dependence. However, for low stellar mass satellites, a 2$\sigma$ significantly positive slope is found for $\log M_{sub}-R_{sep}$. It indicates that **smaller subhalo suffers more sever tidal stripping**. 
+  * Key words: Subhalo, galaxy, galaxy group, weak lensing, dark matter halo. -->
 
 
 <!-- * **Investigating halo properties of AGNs with CDF and VOICE**
