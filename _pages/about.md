@@ -14,7 +14,9 @@ I will get my Bachelor of Science degree on July 2023. Now I am applying for PhD
 
 Hello! My name is Qinxun Li (李秦埙). Currently I am a graduate student in [University of Utah](https://www.utah.edu/). I work with [Prof. Kyle Dawson](https://faculty.utah.edu/u6000137-Kyle_Dawson/hm/index.hml) on observational cosmology. 
 
-I got my Bachelor of Science degree in Astronomy from [University of Science and Technology of China (USTC)](https://astro.ustc.edu.cn/main.htm). My research interest is cosmology, large scale structure and galaxy evolution. 
+In observational cosmology, I mainly work in the [Dark Energy Spectroscopic Instrument (DESI)](https://www.desi.lbl.gov) collaboration. My research focuses on probing dark energy properties and cosmological parameters with Baryon Acoustic Oscillation (BAO), a standard ruler in the large-scale structures of the universe. I am also interested in other cosmological probes such as redshift space distortion (RSD) and weak gravitational lensing.
+
+Before I entered the Ph. D. program at Utah, I got my Bachelor of Science degree in Astronomy from [University of Science and Technology of China (USTC)](https://astro.ustc.edu.cn/main.htm). My bachelor thesis is on galaxy-galaxy lensing of subhalos.
 
 <!-- Research experience
 ======
