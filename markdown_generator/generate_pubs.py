@@ -108,7 +108,13 @@ for bib_id in bibdata.entries:
             break
         first = clean_text(" ".join(author.first_names))
         last = clean_text(" ".join(author.last_names))
-        author_str += f" {first} {last}, "
+        
+        # Highlight Qinxun Li
+        author_name = f"{first} {last}".strip()
+        if last.lower() == "li" and first.lower() in ["qinxun", "q.", "q"]:
+            author_name = f"<b>{author_name}</b>"
+            
+        author_str += f" {author_name}, "
     if author_str.endswith(", "):
         author_str = author_str[:-2]
         

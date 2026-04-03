@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-11-01-Static-Microlensing-Concept-Method-and-Candidates
 date: 2024-11-01
 venue: 'arXiv e-prints'
-citation: ' Qi Guo,  Leyao Wei,  Wentao Luo,  Shurui Lin,  Qinxun Li,  YiFu Cai,  et al. &quot;Static Microlensing: Concept, Method and Candidates.&quot; arXiv e-prints, 2024.'
+citation: ' Qi Guo,  Leyao Wei,  Wentao Luo,  Shurui Lin,  <b>Qinxun Li</b>,  YiFu Cai,  et al. &quot;Static Microlensing: Concept, Method and Candidates.&quot; arXiv e-prints, 2024.'
 ---
 
 ### Abstract
