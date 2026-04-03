@@ -90,6 +90,10 @@ for bib_id in bibdata.entries:
     
     citation = f"{author_str} \"{clean_title}.\" {venue}, {pub_year}."
     
+    # Extract Annotation and Abstract
+    annotation = clean_text(b.get("annotation", ""))
+    abstract = clean_text(b.get("abstract", ""))
+    
     md = f"---\n"
     md += f"title: \"{html_escape(clean_title)}\"\n"
     md += f"collection: publications\n"
@@ -97,13 +101,18 @@ for bib_id in bibdata.entries:
     md += f"date: {pub_date}\n"
     md += f"venue: '{html_escape(venue)}'\n"
     md += f"citation: '{html_escape(citation)}'\n"
-    md += f"---\n"
+    if annotation:
+        md += f"annotation: '{html_escape(annotation)}'\n"
+    md += f"---\n\n"
     
+    if abstract:
+        md += f"### Abstract\n{html_escape(abstract)}\n\n"
+        
     adsurl = b.get("adsurl", "")
     if adsurl:
-        md += f"Use [ADS link]({adsurl}){{:target=\"_blank\"}} for full citation and access paper\n"
+        md += f"[Access paper on ADS]({adsurl}){{:target=\"_blank\"}}\n"
     else:
-        md += f"Use [Google Scholar](https://scholar.google.com/scholar?q={urllib.parse.quote(clean_title)}){{:target=\"_blank\"}} for full citation\n"
+        md += f"[Search on Google Scholar](https://scholar.google.com/scholar?q={urllib.parse.quote(clean_title)}){{:target=\"_blank\"}}\n"
         
     with open(os.path.join(out_dir, md_filename), "w") as f:
         f.write(md)
