@@ -72,6 +72,7 @@ for f in os.listdir(out_dir):
 total_papers = 0
 first_author_papers = 0
 selected_papers = 0
+fetched_abstracts = {}
 
 for bib_id in bibdata.entries:
     entry = bibdata.entries[bib_id]
@@ -143,6 +144,8 @@ for bib_id in bibdata.entries:
     adsurl = b.get("adsurl", "")
     if not abstract and bib_id:
         abstract = fetch_abstract_from_ads(bib_id)
+        if abstract:
+            fetched_abstracts[bib_id] = abstract
         
     if not abstract and adsurl:
         # Fallback to extract bibcode from adsurl
@@ -150,6 +153,8 @@ for bib_id in bibdata.entries:
         if m:
             extracted_bibcode = m.group(1)
             abstract = fetch_abstract_from_ads(extracted_bibcode)
+            if abstract:
+                fetched_abstracts[bib_id] = abstract
 
     if abstract and isinstance(abstract, list):
         abstract = " ".join(abstract)
@@ -203,5 +208,26 @@ with open(os.path.join(data_dir, "pub_stats.yml"), "w") as f:
     f.write(f"total: {total_papers}\n")
     f.write(f"first_author: {first_author_papers}\n")
     f.write(f"selected: {selected_papers}\n")
+
+# Save fetched abstracts back to the bib file
+if fetched_abstracts:
+    with open(bib_file, 'r', encoding='utf-8') as f:
+        original_content = f.read()
+    
+    for bib_id, abstract_text in fetched_abstracts.items():
+        if isinstance(abstract_text, list):
+            abstract_text = " ".join(abstract_text)
+        # Escape brackets in bibtex field
+        safe_abstract = abstract_text.replace("{", "\\{").replace("}", "\\}")
+        
+        def insert_abstract(match):
+            return match.group(1) + '\n    abstract = {' + safe_abstract + '},'
+        
+        pattern = re.compile(r'(@[a-zA-Z]+\s*\{\s*' + re.escape(bib_id) + r'\s*,)', re.IGNORECASE)
+        original_content = pattern.sub(insert_abstract, original_content)
+        
+    with open(bib_file, 'w', encoding='utf-8') as f:
+        f.write(original_content)
+    print(f"Saved {len(fetched_abstracts)} newly fetched abstracts back to own-bib.bib.")
 
 print("Successfully updated publications with abstracts from ADS and generated stats!")
