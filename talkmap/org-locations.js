@@ -1,13 +1,13 @@
 var addressPoints = [
   [
-    "SUSTech",
-    22.603603,
-    113.9968497
+    "Shenzhen, China",
+    22.5445741,
+    114.0545429
   ],
   [
-    "University of Utah",
-    40.7628137,
-    -111.8368719
+    "Salt Lake City, UT",
+    40.7596198,
+    -111.886797
   ],
   [
     "Zoom",
@@ -20,14 +20,9 @@ var addressPoints = [
     116.3912972
   ],
   [
-    "USTC",
-    31.8395355,
-    117.2609152
-  ],
-  [
-    "Ann Arbor, US",
-    42.2813722,
-    -83.7484616
+    "Tucson, AZ",
+    32.2228765,
+    -110.974847
   ],
   [
     "Hefei, China",
@@ -35,12 +30,17 @@ var addressPoints = [
     117.281428
   ],
   [
-    "Qingdao",
+    "Ann Arbor, MI",
+    42.2813722,
+    -83.7484616
+  ],
+  [
+    "Qingdao, China",
     36.0663249,
     120.3777659
   ],
   [
-    "Berkeley",
+    "Berkeley, CA",
     37.8708393,
     -122.272863
   ]

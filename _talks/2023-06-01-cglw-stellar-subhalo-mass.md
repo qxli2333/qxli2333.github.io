@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2023-06-01-cglw-stellar-subhalo-mass
 venue: "China Gravitational Lensing Workshop XI"
 date: 2023-06-01
-location: "Qingdao"
+location: "Qingdao, China"
 ---
 
 Talk at the China Gravitational Lensing Workshop XI in Qingdao.

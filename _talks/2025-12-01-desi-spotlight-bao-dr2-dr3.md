@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2025-12-01-desi-spotlight-bao-dr2-dr3
 venue: "DESI Collaboration Meeting at NOIRLab"
 date: 2025-12-01
-location: "NOIRLab"
+location: "Tucson, AZ"
 ---
 
-Talk at the DESI Collaboration Meeting at NOIRLab.
+[More information here](Talk at the DESI Collaboration Meeting at NOIRLab.)
