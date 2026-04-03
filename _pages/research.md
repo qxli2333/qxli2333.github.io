@@ -9,9 +9,11 @@ redirect_from:
 
 
 * Baryon Acoustic Oscillation (BAO)
+
   BAO is a WONDERFUL feature in the large scale structure of the universe. It originates from the sound wave propagating in the baryon-photon plasma at the very early universe. When the temperature of the universe is beyond 3000K, the universe is fully ionized. The baryons and photons are tightly coupled and behave like a fluid. The sound wave can propagate in this fluid. When the temperature drops to 3000K, the universe starts to become neutral. The sound wave is frozen and leaves a characteristic scale in the distribution of matter. This scale is called BAO scale. We use this scale as a standard ruler to measure the expansion history of the universe. A substantial part of my research is to understand the measurement uncertainties of BAO and to improve the measurement method. 
 
 * Dark Energy Spectroscopic Instrument (DESI)
+  
   DESI is a spectroscopic survey that will measure the redshifts of millions of galaxies and quasars. It will provide a 3D map of the universe and allow us to measure the expansion history of the universe with high precision. 
 
 * Weak Lensing
