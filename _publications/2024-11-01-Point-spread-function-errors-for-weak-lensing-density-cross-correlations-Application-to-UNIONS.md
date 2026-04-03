@@ -1,11 +1,11 @@
 ---
-title: "Point spread function errors for weak lensing textendash density cross-correlations: Application to UNIONS"
+title: "Point spread function errors for weak lensing - density cross-correlations: Application to UNIONS"
 collection: publications
-permalink: /publication/2024-11-01-Point-spread-function-errors-for-weak-lensing-textendash-density-cross-correlations-Application-to-UNIONS
+permalink: /publication/2024-11-01-Point-spread-function-errors-for-weak-lensing-density-cross-correlations-Application-to-UNIONS
 date: 2024-11-01
 venue: 'Astronomy &amp; Astrophysics'
 pub_type: '3_other'
-citation: ' Ziwen Zhang,  Martin Kilbinger,  Fabian Peters,  <b>Qinxun Li</b>,  Wentao Luo,  Lucie Baumont,  et al. &quot;Point spread function errors for weak lensing textendash density cross-correlations: Application to UNIONS.&quot; Astronomy &amp; Astrophysics, 2024.'
+citation: ' Ziwen Zhang,  Martin Kilbinger,  Fabian Peters,  <b>Qinxun Li</b>,  Wentao Luo,  Lucie Baumont,  et al. &quot;Point spread function errors for weak lensing - density cross-correlations: Application to UNIONS.&quot; Astronomy &amp; Astrophysics, 2024.'
 ---
 
 ### Abstract

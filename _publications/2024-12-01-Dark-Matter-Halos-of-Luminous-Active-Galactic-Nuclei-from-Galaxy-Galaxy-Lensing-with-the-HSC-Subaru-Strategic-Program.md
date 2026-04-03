@@ -1,11 +1,11 @@
 ---
-title: "Dark Matter Halos of Luminous Active Galactic Nuclei from GalaxytextendashGalaxy Lensing with the HSC Subaru Strategic Program"
+title: "Dark Matter Halos of Luminous Active Galactic Nuclei from Galaxy-Galaxy Lensing with the HSC Subaru Strategic Program"
 collection: publications
-permalink: /publication/2024-12-01-Dark-Matter-Halos-of-Luminous-Active-Galactic-Nuclei-from-GalaxytextendashGalaxy-Lensing-with-the-HSC-Subaru-Strategic-Program
+permalink: /publication/2024-12-01-Dark-Matter-Halos-of-Luminous-Active-Galactic-Nuclei-from-Galaxy-Galaxy-Lensing-with-the-HSC-Subaru-Strategic-Program
 date: 2024-12-01
 venue: 'Astrophysical Journal'
 pub_type: '3_other'
-citation: ' Wentao Luo,  John Silverman,  Surhud More,  Andy Goulding,  Hironao Miyatake,  Takahiro Nishimichi,  et al. &quot;Dark Matter Halos of Luminous Active Galactic Nuclei from GalaxytextendashGalaxy Lensing with the HSC Subaru Strategic Program.&quot; Astrophysical Journal, 2024.'
+citation: ' Wentao Luo,  John Silverman,  Surhud More,  Andy Goulding,  Hironao Miyatake,  Takahiro Nishimichi,  et al. &quot;Dark Matter Halos of Luminous Active Galactic Nuclei from Galaxy-Galaxy Lensing with the HSC Subaru Strategic Program.&quot; Astrophysical Journal, 2024.'
 ---
 
 ### Abstract

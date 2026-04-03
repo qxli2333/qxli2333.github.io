@@ -16,6 +16,9 @@ def html_escape(text):
     return "".join(html_escape_table.get(c, c) for c in text)
 
 def clean_text(text):
+    text = text.replace("{\\textendash}", "-").replace("\\textendash", "-")
+    text = text.replace("{\\textemdash}", "--").replace("\\textemdash", "--")
+    text = text.replace("{\\textquotesingle}", "'").replace("\\textquotesingle", "'")
     return text.replace("{", "").replace("}", "").replace("\\", "")
 
 month_map = {
