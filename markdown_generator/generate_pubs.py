@@ -2,6 +2,8 @@ import os
 import re
 import html
 import urllib.parse
+import urllib.request
+import json
 from pybtex.database.input import bibtex
 
 html_escape_table = {
@@ -31,6 +33,22 @@ journal_map = {
     'Science China Physics, Mechanics, and Astronomy': 'Science China Physics, Mechanics, and Astronomy',
     'Astronomy \\& Astrophysics': 'Astronomy & Astrophysics'
 }
+
+TOKEN = "csWmjqPU7bcKJ8GLoO6GW0aQqeBi9tG2oOQX8vMV"
+HEADERS = {'Authorization': f'Bearer {TOKEN}', 'Content-Type': 'application/json'}
+
+def fetch_abstract_from_ads(bibcode):
+    search_url = f"https://api.adsabs.harvard.edu/v1/search/query?q=bibcode:{urllib.parse.quote(bibcode)}&fl=abstract"
+    req = urllib.request.Request(search_url, headers=HEADERS)
+    try:
+        with urllib.request.urlopen(req) as response:
+            data = json.loads(response.read().decode('utf-8'))
+            docs = data.get('response', {}).get('docs', [])
+            if docs:
+                return docs[0].get('abstract', '')
+    except Exception as e:
+        print(f"Error fetching abstract for {bibcode}: {e}")
+    return ""
 
 # Resolve paths relative to the script's directory
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -94,6 +112,21 @@ for bib_id in bibdata.entries:
     annotation = clean_text(b.get("annotation", ""))
     abstract = clean_text(b.get("abstract", ""))
     
+    # Try fetching abstract from ADS if not found
+    adsurl = b.get("adsurl", "")
+    if not abstract and bib_id:
+        abstract = fetch_abstract_from_ads(bib_id)
+        
+    if not abstract and adsurl:
+        # Fallback to extract bibcode from adsurl
+        m = re.search(r'abs/([^/]+)', adsurl)
+        if m:
+            extracted_bibcode = m.group(1)
+            abstract = fetch_abstract_from_ads(extracted_bibcode)
+
+    if abstract and isinstance(abstract, list):
+        abstract = " ".join(abstract)
+
     md = f"---\n"
     md += f"title: \"{html_escape(clean_title)}\"\n"
     md += f"collection: publications\n"
@@ -108,7 +141,6 @@ for bib_id in bibdata.entries:
     if abstract:
         md += f"### Abstract\n{html_escape(abstract)}\n\n"
         
-    adsurl = b.get("adsurl", "")
     if adsurl:
         md += f"[Access paper on ADS]({adsurl}){{:target=\"_blank\"}}\n"
     else:
@@ -117,4 +149,4 @@ for bib_id in bibdata.entries:
     with open(os.path.join(out_dir, md_filename), "w") as f:
         f.write(md)
 
-print("Successfully updated publications!")
+print("Successfully updated publications with abstracts from ADS!")
