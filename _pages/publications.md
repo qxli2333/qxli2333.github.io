@@ -11,10 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-<div class="notice--info" style="margin-bottom: 2em; font-size: 3em; text-align: center;">
-  <strong style="font-size: 3em" >Total Papers:</strong> {{ site.data.pub_stats.total }} &nbsp;|&nbsp;
-  <strong style="font-size: 3em" >First-Author Papers:</strong> {{ site.data.pub_stats.first_author }} &nbsp;|&nbsp;
-  <strong style="font-size: 3em" >Selected Contributing Papers:</strong> {{ site.data.pub_stats.selected }}
+<div class="notice--info" style="margin-bottom: 2em; font-size: 2em; text-align: center;">
+  <strong style="font-size: 2em" >Total Papers: {{ site.data.pub_stats.total }} </strong>&nbsp;|&nbsp;
+  <strong style="font-size: 2em" >First-Author Papers: {{ site.data.pub_stats.first_author }} </strong>&nbsp;|&nbsp;
+  <strong style="font-size: 2em" >Selected Contributing Papers:{{ site.data.pub_stats.selected }}</strong> 
   <br>
   <span style="font-size: 2em; font-weight: normal; color: #555;"><i>Click links to read the abstract and key figures.</i></span>
 </div>
