@@ -66,10 +66,21 @@ for f in os.listdir(out_dir):
     if f.endswith('.md'):
         os.remove(os.path.join(out_dir, f))
 
+total_papers = 0
+first_author_papers = 0
+selected_papers = 0
+
 for bib_id in bibdata.entries:
     entry = bibdata.entries[bib_id]
     b = entry.fields
     
+    keywords = b.get("keywords", "").lower()
+    total_papers += 1
+    if "firstauthor" in keywords:
+        first_author_papers += 1
+    if "select" in keywords:
+        selected_papers += 1
+        
     pub_year = b.get("year", "1900")
     raw_month = b.get("month", "jan").lower()[:3]
     pub_month = month_map.get(raw_month, "01")
@@ -149,4 +160,12 @@ for bib_id in bibdata.entries:
     with open(os.path.join(out_dir, md_filename), "w") as f:
         f.write(md)
 
-print("Successfully updated publications with abstracts from ADS!")
+# Write stats
+data_dir = os.path.abspath(os.path.join(SCRIPT_DIR, "..", "_data"))
+os.makedirs(data_dir, exist_ok=True)
+with open(os.path.join(data_dir, "pub_stats.yml"), "w") as f:
+    f.write(f"total: {total_papers}\n")
+    f.write(f"first_author: {first_author_papers}\n")
+    f.write(f"selected: {selected_papers}\n")
+
+print("Successfully updated publications with abstracts from ADS and generated stats!")
