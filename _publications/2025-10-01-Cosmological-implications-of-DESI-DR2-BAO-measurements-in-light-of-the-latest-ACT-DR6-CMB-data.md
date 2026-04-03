@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2025-10-01-Cosmological-implications-of-DESI-DR2-BAO-measurements-in-light-of-the-latest-ACT-DR6-CMB-data
 date: 2025-10-01
 venue: 'Physical Review D'
+pub_type: '3_other'
 citation: ' C. Garcia-Quintero,  H. Noriega,  A. de Mattia,  A. Aviles,  K. Lodha,  D. Chebat,  et al. &quot;Cosmological implications of DESI DR2 BAO measurements in light of the latest ACT DR6 CMB data.&quot; Physical Review D, 2025.'
 ---
 

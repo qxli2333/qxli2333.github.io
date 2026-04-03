@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2025-10-01-DESI-DR2-results-I-Baryon-acoustic-oscillations-from-the-Lyman-alpha-forest
 date: 2025-10-01
 venue: 'Physical Review D'
+pub_type: '3_other'
 citation: ' DESI Collaboration,  M. Abdul Karim,  J. Aguilar,  S. Ahlen,  C. Allende Prieto,  O. Alves,  et al. &quot;DESI DR2 results. I. Baryon acoustic oscillations from the Lyman alpha forest.&quot; Physical Review D, 2025.'
 ---
 

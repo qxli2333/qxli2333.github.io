@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2022-01-01-Chinese-version-of-A-Zees-Quantum-field-theory-in-a-nutshell
 date: 2022-01-01
 venue: 'USTC Press'
+pub_type: '3_other'
 citation: ' A Zee &quot;Chinese version of A. Zee&apos;s Quantum field theory in a nutshell.&quot; USTC Press, 2022.'
 ---
 

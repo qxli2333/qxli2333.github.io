@@ -17,6 +17,27 @@ author_profile: true
   <strong>Selected Contributing Papers:</strong> {{ site.data.pub_stats.selected }}
 </div>
 
-{% for post in site.publications reversed %}
+{% assign first_author_pubs = site.publications | where: "pub_type", "1_first_author" | sort: "date" | reverse %}
+{% assign selected_pubs = site.publications | where: "pub_type", "2_selected" | sort: "date" | reverse %}
+{% assign other_pubs = site.publications | where: "pub_type", "3_other" | sort: "date" | reverse %}
+
+{% if first_author_pubs.size > 0 %}
+<h2>First-Author Publications</h2>
+{% for post in first_author_pubs %}
   {% include archive-single.html %}
 {% endfor %}
+{% endif %}
+
+{% if selected_pubs.size > 0 %}
+<h2>Selected Contributing Publications</h2>
+{% for post in selected_pubs %}
+  {% include archive-single.html %}
+{% endfor %}
+{% endif %}
+
+{% if other_pubs.size > 0 %}
+<h2>Other Contributing Publications</h2>
+{% for post in other_pubs %}
+  {% include archive-single.html %}
+{% endfor %}
+{% endif %}

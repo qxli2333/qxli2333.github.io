@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2025-10-01-Extended-dark-energy-analysis-using-DESI-DR2-BAO-measurements
 date: 2025-10-01
 venue: 'Physical Review D'
+pub_type: '3_other'
 citation: ' K. Lodha,  R. Calderon,  W. Matthewson,  A. Shafieloo,  M. Ishak,  J. Pan,  et al. &quot;Extended dark energy analysis using DESI DR2 BAO measurements.&quot; Physical Review D, 2025.'
 ---
 

@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2025-10-01-Construction-of-the-damped-Lyensuremathalpha-absorber-catalog-for-DESI-DR2-Lyensuremathalpha-BAO
 date: 2025-10-01
 venue: 'Physical Review D'
+pub_type: '3_other'
 citation: ' A. Brodzeller,  M. Wolfson,  D. Santos,  M. Ho,  T. Tan,  M. Pieri,  et al. &quot;Construction of the damped Lyensuremathalpha absorber catalog for DESI DR2 Lyensuremathalpha BAO.&quot; Physical Review D, 2025.'
 ---
 

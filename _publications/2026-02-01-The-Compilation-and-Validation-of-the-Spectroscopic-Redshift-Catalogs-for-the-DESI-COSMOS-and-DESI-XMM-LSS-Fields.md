@@ -1,10 +1,11 @@
 ---
-title: "The Compilation and Validation of the Spectroscopic Redshift Catalogs for the DESI-COSMOS and DESI-XMMLSS Fields"
+title: "The Compilation and Validation of the Spectroscopic Redshift Catalogs for the DESI-COSMOS and DESI-XMM-LSS Fields"
 collection: publications
-permalink: /publication/2026-02-01-The-Compilation-and-Validation-of-the-Spectroscopic-Redshift-Catalogs-for-the-DESI-COSMOS-and-DESI-XMMLSS-Fields
+permalink: /publication/2026-02-01-The-Compilation-and-Validation-of-the-Spectroscopic-Redshift-Catalogs-for-the-DESI-COSMOS-and-DESI-XMM-LSS-Fields
 date: 2026-02-01
-venue: 'arXiv e-prints'
-citation: ' J. Ratajczak,  K. Dawson,  N. Weaverdyck,  J. Aguilar,  S. Ahlen,  E. Armengaud,  et al. &quot;The Compilation and Validation of the Spectroscopic Redshift Catalogs for the DESI-COSMOS and DESI-XMMLSS Fields.&quot; arXiv e-prints, 2026.'
+venue: 'Astronomical Journal'
+pub_type: '3_other'
+citation: ' J. Ratajczak,  K. Dawson,  N. Weaverdyck,  J. Aguilar,  S. Ahlen,  E. Armengaud,  et al. &quot;The Compilation and Validation of the Spectroscopic Redshift Catalogs for the DESI-COSMOS and DESI-XMM-LSS Fields.&quot; Astronomical Journal, 2026.'
 ---
 
 ### Abstract

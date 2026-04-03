@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2025-01-01-The-density-profile-of-Milky-Way-dark-matter-halo-constrained-from-the-OGLE-microlensing-sky-map
 date: 2025-01-01
 venue: 'Astronomy &amp; Astrophysics'
+pub_type: '3_other'
 citation: ' S. Lin,  W. Luo,  Y. Cai,  Q. Guo,  L. Wei,  B. Wang,  et al. &quot;The density profile of Milky Way dark matter halo constrained from the OGLE microlensing sky map.&quot; Astronomy &amp; Astrophysics, 2025.'
 ---
 

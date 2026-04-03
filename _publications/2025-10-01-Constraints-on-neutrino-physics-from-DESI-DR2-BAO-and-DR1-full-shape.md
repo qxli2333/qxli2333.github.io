@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2025-10-01-Constraints-on-neutrino-physics-from-DESI-DR2-BAO-and-DR1-full-shape
 date: 2025-10-01
 venue: 'Physical Review D'
+pub_type: '3_other'
 citation: ' W. Elbers,  A. Aviles,  H. Noriega,  D. Chebat,  A. Menegas,  C. Frenk,  et al. &quot;Constraints on neutrino physics from DESI DR2 BAO and DR1 full shape.&quot; Physical Review D, 2025.'
 ---
 

@@ -129,6 +129,13 @@ for bib_id in bibdata.entries:
     annotation = clean_text(b.get("annotation", ""))
     abstract = clean_text(b.get("abstract", ""))
     
+    # Determine publication type for sorting
+    pub_type = "3_other"
+    if "firstauthor" in keywords:
+        pub_type = "1_first_author"
+    elif "select" in keywords:
+        pub_type = "2_selected"
+    
     # Try fetching abstract from ADS if not found
     adsurl = b.get("adsurl", "")
     if not abstract and bib_id:
@@ -150,6 +157,7 @@ for bib_id in bibdata.entries:
     md += f"permalink: /publication/{html_filename}\n"
     md += f"date: {pub_date}\n"
     md += f"venue: '{html_escape(venue)}'\n"
+    md += f"pub_type: '{pub_type}'\n"
     md += f"citation: '{html_escape(citation)}'\n"
     if annotation:
         md += f"annotation: '{html_escape(annotation)}'\n"
