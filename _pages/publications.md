@@ -11,10 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
-<div class="notice--info" style="margin-bottom: 2em; font-size: 1.1em; text-align: center;">
+<div class="notice--info" style="margin-bottom: 2em; font-size: 1.3em; text-align: center;">
   <strong>Total Papers:</strong> {{ site.data.pub_stats.total }} &nbsp;|&nbsp;
   <strong>First-Author Papers:</strong> {{ site.data.pub_stats.first_author }} &nbsp;|&nbsp;
   <strong>Selected Contributing Papers:</strong> {{ site.data.pub_stats.selected }}
+  <br>
+  <span style="font-size: 0.85em; font-weight: normal; color: #555;"><i>Click links to read the abstract and key figures.</i></span>
 </div>
 
 {% assign first_author_pubs = site.publications | where: "pub_type", "1_first_author" | sort: "date" | reverse %}
