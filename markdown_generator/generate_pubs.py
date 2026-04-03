@@ -169,6 +169,25 @@ for bib_id in bibdata.entries:
     if abstract:
         md += f"### Abstract\n{html_escape(abstract)}\n\n"
         
+    # Extract figures and captions
+    figures_added = False
+    for i in ["", "1", "2", "3", "4", "5"]:
+        fig_key = f"figure{i}"
+        cap_key = f"caption{i}"
+        
+        fig_path = clean_text(b.get(fig_key, ""))
+        caption = clean_text(b.get(cap_key, ""))
+        
+        if fig_path:
+            if not figures_added:
+                md += "### Figures\n"
+                figures_added = True
+            md += f"<figure>\n"
+            md += f"  <img src=\"{fig_path}\" alt=\"{html_escape(caption)}\">\n"
+            if caption:
+                md += f"  <figcaption><i>{html_escape(caption)}</i></figcaption>\n"
+            md += f"</figure>\n\n"
+            
     if adsurl:
         md += f"[Access paper on ADS]({adsurl}){{:target=\"_blank\"}}\n"
     else:
