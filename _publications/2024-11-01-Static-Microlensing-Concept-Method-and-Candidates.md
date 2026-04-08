@@ -5,6 +5,7 @@ permalink: /publication/2024-11-01-Static-Microlensing-Concept-Method-and-Candid
 date: 2024-11-01
 venue: 'arXiv e-prints'
 pub_type: '3_other'
+keywords: "Astrophysics - Astrophysics of Galaxies"
 citation: ' Qi Guo,  Leyao Wei,  Wentao Luo,  Shurui Lin,  <b>Qinxun Li</b>,  YiFu Cai,  et al. &quot;Static Microlensing: Concept, Method and Candidates.&quot; arXiv e-prints, 2024.'
 ---
 

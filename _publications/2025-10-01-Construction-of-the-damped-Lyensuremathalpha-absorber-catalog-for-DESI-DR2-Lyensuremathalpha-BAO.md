@@ -5,6 +5,7 @@ permalink: /publication/2025-10-01-Construction-of-the-damped-Lyensuremathalpha-
 date: 2025-10-01
 venue: 'Physical Review D'
 pub_type: '3_other'
+keywords: "Cosmology, Cosmology and Nongalactic Astrophysics, Astrophysics of Galaxies"
 citation: ' A. Brodzeller,  M. Wolfson,  D. Santos,  M. Ho,  T. Tan,  M. Pieri,  et al. &quot;Construction of the damped Lyensuremathalpha absorber catalog for DESI DR2 Lyensuremathalpha BAO.&quot; Physical Review D, 2025.'
 ---
 

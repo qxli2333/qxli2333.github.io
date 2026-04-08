@@ -5,6 +5,7 @@ permalink: /publication/2026-02-01-The-Compilation-and-Validation-of-the-Spectro
 date: 2026-02-01
 venue: 'Astronomical Journal'
 pub_type: '3_other'
+keywords: "Cosmology, Galaxy spectroscopy, Spectroscopy, Galaxies, Redshift surveys, Catalogs, Photometry, Galaxy photometry, 343, 2171, 1558, 573, 1378, 205, 1234, 611, Cosmology and Nongalactic Astrophysics"
 citation: ' J. Ratajczak,  K. Dawson,  N. Weaverdyck,  J. Aguilar,  S. Ahlen,  E. Armengaud,  et al. &quot;The Compilation and Validation of the Spectroscopic Redshift Catalogs for the DESI-COSMOS and DESI-XMM-LSS Fields.&quot; Astronomical Journal, 2026.'
 ---
 

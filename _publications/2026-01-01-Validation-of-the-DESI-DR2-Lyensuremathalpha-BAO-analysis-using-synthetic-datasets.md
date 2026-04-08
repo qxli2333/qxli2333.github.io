@@ -5,6 +5,7 @@ permalink: /publication/2026-01-01-Validation-of-the-DESI-DR2-Lyensuremathalpha-
 date: 2026-01-01
 venue: 'Physical Review D'
 pub_type: '3_other'
+keywords: "Cosmology, Instrumentation and Methods for Astrophysics, Cosmology and Nongalactic Astrophysics"
 citation: ' L. Casas,  H. Herrera-Alcantar,  J. Chaves-Montero,  A. Cuceu,  A. Font-Ribera,  M. Lokken,  et al. &quot;Validation of the DESI DR2 Lyensuremathalpha BAO analysis using synthetic datasets.&quot; Physical Review D, 2026.'
 ---
 

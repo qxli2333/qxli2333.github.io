@@ -78,11 +78,13 @@ for bib_id in bibdata.entries:
     entry = bibdata.entries[bib_id]
     b = entry.fields
     
-    keywords = b.get("keywords", "").lower()
+    own_type = b.get("own_type", "").lower()
+    real_keywords = b.get("keywords", "")
+    
     total_papers += 1
-    if "firstauthor" in keywords:
+    if "firstauthor" in own_type:
         first_author_papers += 1
-    if "select" in keywords:
+    if "select" in own_type:
         selected_papers += 1
         
     pub_year = b.get("year", "1900")
@@ -135,9 +137,9 @@ for bib_id in bibdata.entries:
     
     # Determine publication type for sorting
     pub_type = "3_other"
-    if "firstauthor" in keywords:
+    if "firstauthor" in own_type:
         pub_type = "1_first_author"
-    elif "select" in keywords:
+    elif "select" in own_type:
         pub_type = "2_selected"
     
     # Try fetching abstract from ADS if not found
@@ -166,6 +168,8 @@ for bib_id in bibdata.entries:
     md += f"date: {pub_date}\n"
     md += f"venue: '{html_escape(venue)}'\n"
     md += f"pub_type: '{pub_type}'\n"
+    if real_keywords:
+        md += f"keywords: \"{html_escape(real_keywords)}\"\n"
     md += f"citation: '{html_escape(citation)}'\n"
     if annotation:
         md += f"annotation: '{html_escape(annotation)}'\n"

@@ -5,6 +5,7 @@ permalink: /publication/2025-11-01-Radio-AGN-feedback-sustains-quiescence-only-i
 date: 2025-11-01
 venue: 'arXiv e-prints'
 pub_type: '3_other'
+keywords: "Astrophysics of Galaxies"
 citation: ' Huiling Liu,  Yan Lu,  Hui Hong,  Huiyuan Wang,  Houjun Mo,  Jing Wang,  et al. &quot;Radio AGN feedback sustains quiescence only in a minority of massive galaxies.&quot; arXiv e-prints, 2025.'
 ---
 

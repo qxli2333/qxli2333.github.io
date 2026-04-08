@@ -5,6 +5,7 @@ permalink: /publication/2025-10-01-Extended-dark-energy-analysis-using-DESI-DR2-
 date: 2025-10-01
 venue: 'Physical Review D'
 pub_type: '3_other'
+keywords: "Cosmology, Cosmology and Nongalactic Astrophysics"
 citation: ' K. Lodha,  R. Calderon,  W. Matthewson,  A. Shafieloo,  M. Ishak,  J. Pan,  et al. &quot;Extended dark energy analysis using DESI DR2 BAO measurements.&quot; Physical Review D, 2025.'
 ---
 

@@ -5,6 +5,7 @@ permalink: /publication/2025-07-01-DESI-DR2-reference-mocks-clustering-results-f
 date: 2025-07-01
 venue: 'arXiv e-prints'
 pub_type: '3_other'
+keywords: "Astrophysics of Galaxies, Cosmology and Nongalactic Astrophysics"
 citation: ' E. Fern&apos;andez-Garc&apos;ia,  F. Prada,  A. Smith,  J. DeRose,  A. Ross,  S. Bailey,  et al. &quot;DESI DR2 reference mocks: clustering results from Uchuu-BGS and LRG.&quot; arXiv e-prints, 2025.'
 ---
 

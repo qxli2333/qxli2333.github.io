@@ -5,6 +5,7 @@ permalink: /publication/2025-12-01-UNIONS-The-Ultraviolet-Near-infrared-Optical-
 date: 2025-12-01
 venue: 'Astronomical Journal'
 pub_type: '3_other'
+keywords: "Sky surveys, Weak gravitational lensing, Stellar streams, Galactic archaeology, 1464, 1797, 2166, 2178, Astrophysics - Astrophysics of Galaxies, Astrophysics - Instrumentation and Methods for Astrophysics"
 citation: ' Stephen Gwyn,  Alan McConnachie,  Jean-Charles Cuillandre,  Kenneth Chambers,  Eugene Magnier,  Thomas de Boer,  et al. &quot;UNIONS: The Ultraviolet Near-infrared Optical Northern Survey.&quot; Astronomical Journal, 2025.'
 ---
 

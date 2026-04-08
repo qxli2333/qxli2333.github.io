@@ -5,6 +5,7 @@ permalink: /publication/2026-02-01-CFHT-MegaCam-Two-Deep-Fields-Imaging-Survey-2
 date: 2026-02-01
 venue: 'arXiv e-prints'
 pub_type: '3_other'
+keywords: "Astrophysics of Galaxies"
 citation: ' Binyang Liu,  Wentao Luo,  Martin Kilbinger,  Shenming Fu,  Ian Dell&apos;Antonio,  Liping Fu,  et al. &quot;CFHT MegaCam Two Deep Fields Imaging Survey (2DFIS) I: Overview.&quot; arXiv e-prints, 2026.'
 ---
 

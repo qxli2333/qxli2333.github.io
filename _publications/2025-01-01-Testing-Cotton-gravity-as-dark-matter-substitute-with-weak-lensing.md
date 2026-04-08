@@ -5,6 +5,7 @@ permalink: /publication/2025-01-01-Testing-Cotton-gravity-as-dark-matter-substit
 date: 2025-01-01
 venue: 'Science China Physics, Mechanics, and Astronomy'
 pub_type: '3_other'
+keywords: "Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Astrophysics of Galaxies, General Relativity and Quantum Cosmology"
 citation: ' Geyu Mo,  Qingqing Wang,  Xin Ren,  Weitong Yan,  <b>Qinxun Li</b>,  Yen Ong,  et al. &quot;Testing Cotton gravity as dark matter substitute with weak lensing.&quot; Science China Physics, Mechanics, and Astronomy, 2025.'
 ---
 
