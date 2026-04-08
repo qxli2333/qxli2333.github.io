@@ -5,21 +5,21 @@ set -e
 cd "$(dirname "$0")"
 
 echo "=========================================="
-echo "1/4: Updating citation statistics from ADS"
-echo "=========================================="
-python3 update_citations.py
-
-echo ""
-echo "=========================================="
-echo "2/4: Fetching missing keywords from ADS"
+echo "1/4: Fetching missing keywords from ADS"
 echo "=========================================="
 python3 update_keywords.py
 
 echo ""
 echo "=========================================="
-echo "3/4: Generating publication markdown files"
+echo "2/4: Generating publication markdown files"
 echo "=========================================="
 python3 generate_pubs.py
+
+echo ""
+echo "=========================================="
+echo "3/4: Updating citation statistics from ADS"
+echo "=========================================="
+python3 update_citations.py
 
 echo ""
 echo "=========================================="
