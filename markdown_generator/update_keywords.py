@@ -26,14 +26,7 @@ def fetch_keywords_from_ads(bibcode):
 def process_bib_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
-
-    # Rename existing 'keywords =' to 'own_type ='
-    content = re.sub(r'(\s+)keywords(\s*=\s*\{[^\}]+\},)', r'\1own_type\2', content, flags=re.IGNORECASE)
     
-    # We need to find each entry and its bibcode to fetch new keywords.
-    # Entries start with @ARTICLE{bibcode,
-    
-    # We will do this by finding all @ARTICLE{...} or other types
     pattern = re.compile(r'@([a-zA-Z]+)\s*\{\s*([^,]+),')
     matches = list(pattern.finditer(content))
     
@@ -43,18 +36,35 @@ def process_bib_file(file_path):
         entry_start = match.start()
         entry_key = match.group(2).strip()
         
-        # Find where this entry ends (the next match, or end of file)
         next_idx = matches[i+1].start() if i+1 < len(matches) else len(content)
         entry_text = content[entry_start:next_idx]
         
-        # Check if there's an adsurl
+        # Check for keywords that might actually be our custom types
+        kw_match = re.search(r'keywords\s*=\s*\{([^\}]+)\}', entry_text, re.IGNORECASE)
+        custom_tags = ["firstauthor", "select", "contributing", "own"]
+        
+        if kw_match:
+            kw_val = kw_match.group(1).strip()
+            # If the keyword is just one of our custom tags, rename it to own_type
+            if kw_val.lower() in custom_tags:
+                entry_text = entry_text[:kw_match.start()] + f"own_type = {{{kw_val}}}" + entry_text[kw_match.end():]
+                # Re-check kw_match since we removed it
+                kw_match = re.search(r'keywords\s*=\s*\{([^\}]+)\}', entry_text, re.IGNORECASE)
+        
+        # If the entry already has real keywords, we skip fetching
+        if kw_match:
+            new_content += content[last_idx:entry_start] + entry_text
+            last_idx = next_idx
+            continue
+            
+        # Check if there's an adsurl to extract bibcode
         adsurl_match = re.search(r'adsurl\s*=\s*[\{"]https?://ui\.adsabs\.harvard\.edu/abs/([^/\}"]+)[\}"]', entry_text)
         if adsurl_match:
             bibcode = adsurl_match.group(1)
         else:
             bibcode = entry_key
             
-        print(f"Processing {entry_key} (bibcode: {bibcode})")
+        print(f"Processing {entry_key} (bibcode: {bibcode}) for missing keywords...")
         
         # Fetch keywords if it looks like a bibcode
         new_keywords = ""
@@ -64,20 +74,16 @@ def process_bib_file(file_path):
             
         if new_keywords:
             print(f"  Found keywords: {new_keywords[:50]}...")
-            # Insert keywords after own_type or at the end of the entry
             safe_kw = new_keywords.replace('{', '').replace('}', '')
             insert_str = f',\n    keywords = {{{safe_kw}}}'
             
-            # Find own_type line
             own_type_match = re.search(r'own_type\s*=\s*\{[^\}]+\}', entry_text)
             if own_type_match:
                 end_pos = own_type_match.end()
                 entry_text = entry_text[:end_pos] + insert_str + entry_text[end_pos:]
             else:
-                # If no own_type, just put it before the last closing brace
                 last_brace = entry_text.rfind('}')
                 if last_brace != -1:
-                    # Remove trailing comma if needed, or just insert
                     entry_text = entry_text[:last_brace] + insert_str + '\n' + entry_text[last_brace:]
 
         new_content += content[last_idx:entry_start] + entry_text
