@@ -14,6 +14,10 @@ A substantial part of my research involves understanding the measurement uncerta
 ## Relevant Publications
 * [DESI DR2 results. II. Measurements of baryon acoustic oscillations and cosmological constraints - DESI Collaboration et al. (2025)](/publication/2025-10-01-DESI-DR2-results-II-Measurements-of-baryon-acoustic-oscillations-and-cosmological-constraints)
 * [Validation of the DESI DR2 measurements of baryon acoustic oscillations from galaxies and quasars - U. Andrade et al. (2025)](/publication/2025-10-01-Validation-of-the-DESI-DR2-measurements-of-baryon-acoustic-oscillations-from-galaxies-and-quasars)
+* [DESI DR2 Results IV: Alcock-Paczy&apos;nski Measurements from the Lyman Alpha Forest and Cosmological Constraints - DESI Collaboration et al. (2026)](/publication/2026-07-01-DESI-DR2-Results-IV-Alcock-Paczynski-Measurements-from-the-Lyman-Alpha-Forest-and-Cosmological-Constraints)
+* [Validation of the DESI DR2 Lyα forest full-shape analysis - M. Herbold et al. (2026)](/publication/2026-07-01-Validation-of-the-DESI-DR2-Lyalpha-forest-full-shape-analysis)
+* [CoLoRe-2LPT: Lyman-α mock catalogues for the validation of DESI cosmological analyses - M. Ruiz-Herrera Bernal et al. (2026)](/publication/2026-07-01-CoLoRe-2LPT-Lyman-alpha-mock-catalogues-for-the-validation-of-DESI-cosmological-analyses)
+* [DESI DR2 reference mocks: clustering results from UCHUU-BGS and LRG - E. Fern&apos;andez-Garc&apos;ia et al. (2026)](/publication/2026-05-01-DESI-DR2-reference-mocks-clustering-results-from-UCHUU-BGS-and-LRG)
 * [The Compilation and Validation of the Spectroscopic Redshift Catalogs for the DESI-COSMOS and DESI-XMM-LSS Fields - J. Ratajczak et al. (2026)](/publication/2026-02-01-The-Compilation-and-Validation-of-the-Spectroscopic-Redshift-Catalogs-for-the-DESI-COSMOS-and-DESI-XMM-LSS-Fields)
 * [Validation of the DESI DR2 Lyensuremathalpha BAO analysis using synthetic datasets - L. Casas et al. (2026)](/publication/2026-01-01-Validation-of-the-DESI-DR2-Lyensuremathalpha-BAO-analysis-using-synthetic-datasets)
 * [Extended dark energy analysis using DESI DR2 BAO measurements - K. Lodha et al. (2025)](/publication/2025-10-01-Extended-dark-energy-analysis-using-DESI-DR2-BAO-measurements)
@@ -21,6 +25,5 @@ A substantial part of my research involves understanding the measurement uncerta
 * [Cosmological implications of DESI DR2 BAO measurements in light of the latest ACT DR6 CMB data - C. Garcia-Quintero et al. (2025)](/publication/2025-10-01-Cosmological-implications-of-DESI-DR2-BAO-measurements-in-light-of-the-latest-ACT-DR6-CMB-data)
 * [Construction of the damped Lyensuremathalpha absorber catalog for DESI DR2 Lyensuremathalpha BAO - A. Brodzeller et al. (2025)](/publication/2025-10-01-Construction-of-the-damped-Lyensuremathalpha-absorber-catalog-for-DESI-DR2-Lyensuremathalpha-BAO)
 * [DESI DR2 results. I. Baryon acoustic oscillations from the Lyman alpha forest - DESI Collaboration et al. (2025)](/publication/2025-10-01-DESI-DR2-results-I-Baryon-acoustic-oscillations-from-the-Lyman-alpha-forest)
-* [DESI DR2 reference mocks: clustering results from Uchuu-BGS and LRG - E. Fern&apos;andez-Garc&apos;ia et al. (2025)](/publication/2025-07-01-DESI-DR2-reference-mocks-clustering-results-from-Uchuu-BGS-and-LRG)
 
 [**&larr; Back to Research Overview**](/research/)

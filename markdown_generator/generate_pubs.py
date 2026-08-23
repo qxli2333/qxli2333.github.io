@@ -99,7 +99,8 @@ for bib_id in bibdata.entries:
     title = b.get("title", "")
     clean_title = clean_text(title)
     
-    url_slug = re.sub(r"\[.*\]|[^a-zA-Z0-9_-]", "", clean_title.replace(" ", "-"))
+    slug_title = clean_title.replace("α", "alpha")
+    url_slug = re.sub(r"\[.*\]|[^a-zA-Z0-9_-]", "", slug_title.replace(" ", "-"))
     url_slug = re.sub(r"-+", "-", url_slug).strip("-")
     
     md_filename = f"{pub_date}-{url_slug}.md"
