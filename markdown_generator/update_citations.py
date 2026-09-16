@@ -4,7 +4,7 @@ import urllib.parse
 import os
 
 # Using the token identified in the workspace
-TOKEN = "csWmjqPU7bcKJ8GLoO6GW0aQqeBi9tG2oOQX8vMV"
+TOKEN = "jvf3B91yXPfgdfLZCQ7yU0SrQDbBphlkh3DsOLuz"
 HEADERS = {'Authorization': f'Bearer {TOKEN}', 'Content-Type': 'application/json'}
 ORCID = "0000-0003-3616-6486"
 

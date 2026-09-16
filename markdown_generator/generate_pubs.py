@@ -37,7 +37,7 @@ journal_map = {
     'Astronomy \\& Astrophysics': 'Astronomy & Astrophysics'
 }
 
-TOKEN = "csWmjqPU7bcKJ8GLoO6GW0aQqeBi9tG2oOQX8vMV"
+TOKEN = "jvf3B91yXPfgdfLZCQ7yU0SrQDbBphlkh3DsOLuz"
 HEADERS = {'Authorization': f'Bearer {TOKEN}', 'Content-Type': 'application/json'}
 
 def fetch_abstract_from_ads(bibcode):

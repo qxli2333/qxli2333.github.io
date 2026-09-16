@@ -5,7 +5,7 @@ import urllib.request
 import json
 import time
 
-TOKEN = "csWmjqPU7bcKJ8GLoO6GW0aQqeBi9tG2oOQX8vMV"
+TOKEN = "jvf3B91yXPfgdfLZCQ7yU0SrQDbBphlkh3DsOLuz"
 HEADERS = {'Authorization': f'Bearer {TOKEN}', 'Content-Type': 'application/json'}
 
 def fetch_keywords_from_ads(bibcode):
