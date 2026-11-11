@@ -111,7 +111,7 @@ permalink: /blog/april-fools-arxiv-2026/
 $$CF=\frac{1}{p}(x-1)^{\frac{D+5}{10}}$$
 变量$p$表示手稿的页数在到达$CF=1$时的页数，此时图表中的标记会完全碎裂。因此，通过构建较短的论文来避免达到这个极限符合作者的最佳利益。变量$p$由佐治亚水族馆的非洲企鹅直播摄像头中可见的企鹅数量决定，在GF pastamarkers被导入进Jupyter笔记本时进行测量。这些变量被记录进图片的元数据中，只有在编译手稿时才会被访问，以确保作者无法操纵它们以获得更低的崩溃因子。
 
-![意面酱配色]({{ "/images/blog/april-fools-arxiv-2026/01.png" | relative_url }})
+<figure class="blog-fig"><img src="{{ "/images/blog/april-fools-arxiv-2026/01.png" | relative_url }}" alt="意面酱配色"><figcaption>意面酱配色</figcaption></figure>
 
 ## 为一个不完喵的宇宙提供完喵的初始化
 
