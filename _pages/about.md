@@ -16,6 +16,8 @@ Hello! My name is Qinxun Li (李秦埙). Currently I am a Ph.D. candidate in [Un
 
 In observational cosmology, I mainly work in the [Dark Energy Spectroscopic Instrument (DESI)](https://www.desi.lbl.gov) collaboration. My research focuses on probing dark energy properties and cosmological parameters with Baryon Acoustic Oscillation (BAO), a standard ruler in the large-scale structures of the universe. I am also interested in other cosmological probes such as redshift space distortion (RSD) and weak gravitational lensing. 
 
+Since 2026, I have served as co-lead of the DESI BAO topical group for the DR3 analysis.
+
 Before I entered the Ph. D. program at Utah, I got my Bachelor of Science degree in Astronomy from [University of Science and Technology of China (USTC)](https://astro.ustc.edu.cn/main.htm). My bachelor thesis is on galaxy-galaxy lensing of subhalos.
 
 <!-- Research experience

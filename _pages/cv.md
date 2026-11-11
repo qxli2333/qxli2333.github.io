@@ -13,14 +13,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Physics (Astronomy track), University of Utah, Aug. 2023 -- 
+* Ph.D. candidate in Physics (Astronomy track), University of Utah, Aug. 2023 -- 
   * Research Advisor: Prof. Kyle Dawson
-  * Research Topic: Baryon Acoustic Oscillation Measurement and Cosmological Constraints
+  * Research Topic: Geometric Probes of Cosmic Acceleration from Galaxy Surveys
 
 * B.S. in Astronomy, University of Science and Technology of China, Sep. 2019 -- July 2023
   * Research Advisor: Prof. Wentao Luo \& Prof. Huiyuan Wang
   * Thesis: Constraining Satellite Galaxy-Subhalo Connection with Weak Gravitational Lensing
 
+
+Research Leadership
+======
+* Co-lead, DESI BAO Topical Group for the DR3 analysis, 2026–present.
 
 <!-- Research experience
 ====== -->
