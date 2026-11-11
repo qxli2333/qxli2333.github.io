@@ -1,0 +1,77 @@
+/* ==========================================================================
+   Custom polish — minimal, restrained
+   ========================================================================== */
+
+$accent: #2b6cb0;
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: "Inter", -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  color: #2d3339;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  background: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Inter", -apple-system, "Segoe UI", sans-serif;
+  color: #1a202c;
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid $border-color;
+}
+
+a {
+  color: $accent;
+  text-decoration: none;
+  transition: color 0.15s ease, border-color 0.15s ease;
+  &:hover { color: darken($accent, 12%); }
+}
+
+.page__content a:not(.btn) {
+  border-bottom: 1px solid rgba($accent, 0.25);
+  &:hover { border-bottom-color: $accent; }
+}
+
+.archive a { text-decoration: none; }
+
+/* masthead: light, sticky, subtle */
+.masthead {
+  position: sticky;
+  top: 0;
+  background: rgba(255, 255, 255, 0.92);
+  -webkit-backdrop-filter: blur(8px);
+          backdrop-filter: blur(8px);
+  border-bottom: 1px solid #edf0f2;
+}
+.masthead__inner-wrap a { color: #4a5560; border-bottom: 0; }
+.masthead__inner-wrap a:hover { color: $accent; }
+.greedy-nav a { font-weight: 500; }
+
+/* sidebar profile */
+.author__avatar img {
+  border: 0 !important;
+  padding: 0 !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.12);
+}
+.author__name { color: #1a202c; font-weight: 600; }
+.author__bio, .author__urls li, .author__content { color: #5a6570; }
+
+/* lists and entries */
+.list__item, .archive__item { margin-bottom: 1.5em; }
+.archive__item-title { font-weight: 600; }
+.archive__item-title a { color: #1a202c; border-bottom: 0; &:hover { color: $accent; } }
+.page__title { font-weight: 700; }
+
+/* images and code */
+img { border-radius: 4px; }
+hr { border-top-color: #edf0f2; }
+::selection { background: rgba($accent, 0.18); }
+
+/* footer */
+.page__footer { color: #8a949e; font-size: 0.85em; }
+.page__footer a { color: inherit; border-bottom: 0; }
